@@ -12,7 +12,7 @@ cveList = [
   "CVE-2016-6277"
 ]
 
-api = "https://kb.netgear.com/services/apexrest/articlevulnerability?lang=en_US&articlescount=400&articleclassification=Security%20Vulnerability"
+api = "https://kb.netgear.com/services/apexrest/articlevulnerability?lang=en_US&articlescount=1000&articleclassification=Security%20Vulnerability"
 headers = {
   "accept":"application/json, text/javascript, */*; q=0.01"
 }
@@ -28,17 +28,18 @@ for url in cveURLs:
   soup = BeautifulSoup(response.text, 'html.parser')
   cve = soup.find('div', class_='article-content')
 
-  if url == 'https://kb.netgear.com/000063636/Security-Advisory-for-Authentication-Bypass-on-Multiple-Products-PSV-2021-0084':
-    print('FOUND FOUND FOUND')
+  # checking if the manuall found url is found in the list
+  # if url == 'https://kb.netgear.com/000063636/Security-Advisory-for-Authentication-Bypass-on-Multiple-Products-PSV-2021-0084':
+  #   print('FOUND FOUND FOUND')
   
-  # for para in cve.find_all('p'):
-  #   if 'Associated CVE' in para.text and 'CVE-' in para.text:
-  #     cveID = 'CVE-' + para.text.split('CVE-')[-1]
-  #     print(f'========= {cveID} =========')
-  #     print(url, cveID)
+  for para in cve.find_all('p'):
+    if 'Associated CVE' in para.text and 'CVE-' in para.text:
+      cveID = 'CVE-' + para.text.split('CVE-')[-1]
+      print(f'========= {cveID} =========')
+      print(url, cveID)
 
-  #     if cveID in cveList:
-  #       print('Found:', cveID)
-  #     time.sleep(1)
-  #     break
+      if cveID in cveList:
+        print('Found:', cveID)
+      time.sleep(1)
+      break
   
