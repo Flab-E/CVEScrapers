@@ -43,11 +43,11 @@ for f in cveFiles:
             cveId = 'CVE-'+curr.split('CVE-')[1].split(' ')[0][:10]
             if cveId[-1] == '-' or cveId[-1] == '"':
               cveId = cveId[:-1]
-            cveIdList += [cveId]
+            cveIdList += [[f, cveId]]
           curr = next(fi)
     fi.close()
 
 for cveId in cveIdList:
   # print(getCVE(cveId))
   # print('done')
-  print(cveId)
+  print(cveId[0].split('/')[-1], '\t', cveId[1])

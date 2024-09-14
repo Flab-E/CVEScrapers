@@ -1,0 +1,1388 @@
+[   Product Category Product Family        SKU Number End-of-Life Date
+0      Access Point         WAC505  WAC505B05-10000S           2/1/19
+1      Access Point         WAC505  WAC505B05-100NAS           9/1/19
+2      Access Point         WAC505   WAC505PA-100UKS           4/1/20
+3      Access Point         WAC505   WAC505PA-100GES          4/21/20
+4      Access Point         WAC505  WAC505B03-100NAS           7/1/20
+5      Access Point         WAC505     WAC505-10000S           8/1/20
+6      Access Point         WAC505     WAC505-100NAS           8/1/20
+7      Access Point         WAC505  WAC505B03-10000S           8/1/20
+8      Access Point         WAC505   WAC505PA-100NAS           8/1/20
+9      Access Point         WAC510   WAC510PA-100GES           8/1/20
+10     Access Point         WAC510   WAC510PA-100UKS           8/1/20
+11     Access Point         WAC510   WAC510P8-100PES          10/1/20
+12     Access Point         WAC510   WAC510P8-100NAS           2/1/21
+13     Access Point         WAC510   WAC510P8-100UKS         10/20/21
+14     Access Point         WAC510   WAC510PA-100NAS          11/1/21
+15     Access Point         WAC510     WAC510-10000S           1/1/22
+16     Access Point         WAC510  WAC510B03-10000S           1/1/22
+17     Access Point         WAC510  WAC510B03-100NAS           1/1/22
+18     Access Point         WAC510     WAC510-100NAS           3/1/22
+19     Access Point         WAC540  WAC540B03-10000S           8/1/21
+20     Access Point         WAC540     WAC540-10000S          11/1/21
+21     Access Point         WAC540     WAC540-100JPS          11/1/21
+22     Access Point         WAC540     WAC540-100NAS          11/1/21
+23     Access Point         WAC540   WAC540PA-100NAS          11/1/21
+24     Access Point         WAC540  WAC540B03-100NAS           1/1/22
+25     Access Point         WAC564     WAC564-100AUS           8/1/20
+26     Access Point         WAC564     WAC564-100NAS          10/1/20
+27     Access Point         WAC564     WAC564-100EUS           8/1/21
+28     Access Point         WAC564     WAC564-100JPS           4/1/22
+29     Access Point        WAX630E    WAX630E-100AUS           3/1/24
+30     Access Point         WBC502   WBC502B2-100NAS           6/1/21
+31     Access Point         WBC502   WBC502B2-100PES           6/1/21
+32     Access Point         WBC502     WBC502-100PES           8/1/21
+33     Access Point         WBC502   WBC502B2-100UKS          12/1/21
+34  Business Router          BR200     BRK200-100JPS          6/30/21
+35  Business Router          BR200     BRK200-100NAS          6/30/21
+36  Business Router          BR200     BRK200-100PES          6/30/21
+37  Business Router          BR200     BRK200-100UKS          6/30/21
+38  Business Router          BR200      BR200-100JPS           9/1/21
+39  Business Router          BR200      BR200-100PES          10/1/21
+40  Business Router          BR200      BR200-100NAS          12/1/21
+41  Business Router          BR200      BR200-100UKS          3/31/22
+42  Business Router          BR500     BRK500-100AUS           3/1/20
+43  Business Router          BR500      BR500-100AUS           6/1/20
+44  Business Router          BR500      BR500-100JPS           6/1/20
+45  Business Router          BR500      BR500-100NAS           6/1/20
+46  Business Router          BR500      BR500-100PES           6/1/20
+47  Business Router          BR500     BRK500-100JPS           6/1/20
+48  Business Router          BR500     BRK500-100NAS           6/1/20
+49  Business Router          BR500     BRK500-100PES           6/1/20
+50  Business Router          BR500     BRK500-100UKS           6/1/20
+51  Business Router          BR500      BR500-100UKS          6/28/20
+52          Modules         AFM735     AFM735-10000S           1/1/22
+53          Modules        APS250W    APS250W-111NES           8/1/22
+54          Modules        APS299W    APS299W-100AJS          12/1/21
+55          Modules          AX742             AX742           4/1/21,      Modules      AX743       AX743-10000S  12/1/22
+0    Modules      AX745       AX745-10000S  11/1/21
+1    Modules     AXC753      AXC753-10000S  3/31/16
+2    Modules    AXLC761     AXLC761-10000S   2/1/22
+3    Modules    AXLC762     AXLC762-10000S   1/1/22
+4    Modules    AXLM762     AXLM762-10000S   1/1/22
+5    Modules     AXM751             AXM751   1/1/15
+6    Modules     AXM752             AXM752   1/1/15
+7    Modules     AXM765      AXM765-10000S  11/1/21
+8    Modules    RPS4000     RPS4000-100AJS  7/12/15
+9    Modules    RPS4000     RPS4000-100NES  7/29/16
+10   Modules    RPS4000     RPS4000-200AJS  11/1/21
+11   Modules    RPS4000     RPS4000-200NES  12/1/22
+12   Modules    RPS5412     RPS5412-100EUS   4/7/16
+13   Modules    RPS5412     RPS5412-100NAS   4/7/16
+14   Modules  XCM8806FT   XCM8806FT-10000S  6/15/15
+15   Modules  XCM8806PC   XCM8806PC-10000S   1/4/15
+16   Modules   XCM8808X    XCM8808X-10000S  6/15/15
+17   Modules  XCM8810FT   XCM8810FT-10000S  6/15/15
+18   Modules  XCM8810PC   XCM8810PC-10000S   1/4/15
+19   Modules   XCM8824F    XCM8824F-10000S  6/15/15
+20   Modules   XCM8848T    XCM8848T-10000S  6/15/15
+21   Modules    XCM888F     XCM888F-10000S  6/15/15
+22   Modules   XCM88FPB    XCM88FPB-10000S  6/15/15
+23   Modules     XCM88P      XCM88P-10000S  6/15/15
+24   Modules   XCM88PS1    XCM88PS1-10000S   1/1/15
+25   Modules   XCM88PS1  XCMgs88PS1-10000S   1/4/15
+26   Modules    XCM88S1     XCM88S1-10000S   1/4/15
+27  Security    ASG1100     ASG1100-1S3NAS  6/20/16
+28  Security    ASG1100     ASG1100-1TCNAS  6/20/16
+29  Security    ASG1100     ASG1100-1CXNAS  11/1/16
+30  Security    ASG1100     ASG1100-1CONAS  2/21/17
+31  Security    FVS318G     FVS318G-100EUS  3/30/15
+32  Security    FVS318G     FVS318G-100RUS  3/30/15
+33  Security    FVS318G     FVS318G-100NAS  4/16/15
+34  Security    FVS318G     FVS318G-200EUS  3/31/17
+35  Security    FVS318G     FVS318G-200NAS  3/31/17
+36  Security    FVS318G     FVS318G-200PRS   4/1/17
+37  Security    FVS318N     FVS318N-100EUS   1/2/17
+38  Security    FVS318N     FVS318N-100NAS   7/1/17
+39  Security    FVS336G     FVS336G-200EUS  3/30/15
+40  Security    FVS336G     FVS336G-200NAS  3/30/15
+41  Security    FVS336G     FVS336G-200AUS  8/14/15
+42  Security    FVS336G     FVS336G-300AUS   4/1/17
+43  Security    FVS336G     FVS336G-300INS   4/1/17
+44  Security    FVS336G     FVS336G-300NAS   7/1/17
+45  Security    FVS336G     FVS336G-300EUS   3/4/18
+46  Security         NM      NMWLSN-10000S  5/22/14
+47  Security    SRX5308     SRX5308-100EUS  1/12/17
+48  Security    SRX5308     SRX5308-100AJS   4/1/17
+49  Security    SRX5308     SRX5308-100RUS   4/1/17
+50  Security    SRX5308     SRX5308-100NAS   5/1/17
+51  Security   STM150HW      STM150-100EUZ  7/24/15
+52  Security   STM600HW      STM600-100NAZ  7/24/15
+53  Security    UTM10HW     UTM10EW-100EUS  4/10/13
+54  Security    UTM10HW     UTM10EW-100NAS  4/10/13,             Security      UTM25HW      UTM25-100AJS  12/27/13
+0           Security      UTM25HW      UTM25-100EUS  12/27/13
+1           Security      UTM25HW    UTM25EW-100AJS  12/27/13
+2           Security      UTM25HW    UTM25EW-100EUS  12/27/13
+3           Security     UTM25SHW  UTM25EWDB-100EUS   6/12/13
+4           Security     UTM25SHW     UTM25S-100AUS  11/29/13
+5           Security      UTM50HW      UTM50-100EUZ   6/12/13
+6           Security      UTM50HW      UTM50-100EUS  11/29/13
+7           Security      UTM50HW    UTM50EW-100AJS  11/29/13
+8           Security      UTM9ACC  UTM9SDSLA-10000S  11/29/13
+9           Security      UTM9ACC  UTM9SDSLB-10000S  11/29/13
+10          Security      UTM9SHW   UTM9EWDA-100E1S   1/24/14
+11          Security      VPNG01L    VPNG01L-20000S    7/1/18
+12          Security      VPNG05L    VPNG05L-20000S    7/1/18
+13           Service  ONLINESRVCS     DWPG03-10000S    2/1/20
+14           Service  ONLINESRVCS     DWPG12-10000S    2/1/20
+15           Service  ONLINESRVCS     DWPP03-10000S    2/1/20
+16           Service  ONLINESRVCS     DWPP12-10000S    2/1/20
+17           Service  ONLINESRVCS     DWPS03-10000S    2/1/20
+18           Service  ONLINESRVCS     DWPS12-10000S    2/1/20
+19           Service          PMB   PMB0S51P-10000S    8/1/21
+20           Service        RNVMS   RVMSMA4P-10000S    8/1/18
+21           Service        RNVMS   RVMSMA8P-10000S    8/1/18
+22           Service        RNVMS   RVMSMA1P-10000S    9/1/18
+23  Storage, Desktop       ACCSRY    RTRAY09-10000S    8/1/21
+24  Storage, Desktop        RN102   RN10221D-100PRS    1/8/14
+25  Storage, Desktop        RN102   RN10222D-100SWS    1/8/14
+26  Storage, Desktop        RN102   RNG10200-100GRS    1/8/14
+27  Storage, Desktop        RN102  RNG10222D-100GRS    1/8/14
+28  Storage, Desktop        RN102  RNG10223D-100GRS    1/8/14
+29  Storage, Desktop        RN102    RN10200-100SWS    1/7/15
+30  Storage, Desktop        RN102   RN10221D-100EUS    2/5/16
+31  Storage, Desktop        RN102   RN10222D-100EUS    2/5/16
+32  Storage, Desktop        RN102   RN10223D-100EUS    2/5/16
+33  Storage, Desktop        RN102    RN10200-100AJS    4/8/16
+34  Storage, Desktop        RN102    RN10200-100NAS    4/8/16
+35  Storage, Desktop        RN102    RN10200-100PRS    4/8/16
+36  Storage, Desktop        RN102   RN10221D-100AJS    4/8/16
+37  Storage, Desktop        RN102    RN10200-100EUS   6/30/16
+38  Storage, Desktop        RN102   RN10211D-100EUS  12/30/16
+39  Storage, Desktop        RN102   RN10222D-100NAS  12/30/16
+40  Storage, Desktop        RN102   RN10223D-100NAS  12/30/16
+41  Storage, Desktop        RN102   RN10223D-100AJS   1/20/20
+42  Storage, Desktop        RN104   RN10441D-100PRS    1/8/14
+43  Storage, Desktop        RN104   RNG10400-100GRS    1/8/14
+44  Storage, Desktop        RN104  RNG10442D-100GRS    1/8/14
+45  Storage, Desktop        RN104    RN10400-100SWS    1/7/15
+46  Storage, Desktop        RN104   RN10441D-100EUS    1/4/16
+47  Storage, Desktop        RN104   RN10441D-100NAS    1/9/16
+48  Storage, Desktop        RN104   RN10442D-100EUS    2/5/16
+49  Storage, Desktop        RN104    RN10400-100EUS   6/30/16
+50  Storage, Desktop        RN104    RN10400-100AJS   8/19/16
+51  Storage, Desktop        RN104    RN10400-100NAS   8/19/16
+52  Storage, Desktop        RN104    RN10400-100PRS   8/19/16
+53  Storage, Desktop        RN104   RN10441D-100AJS   8/19/16
+54  Storage, Desktop        RN104   RN10443D-100EUS   8/19/16
+55  Storage, Desktop        RN104   RN10443D-100AJS  10/28/16
+56  Storage, Desktop        RN104   RN10442D-100NAS  12/30/16,     Storage, Desktop  RN202  RN20222D-100NES  4/29/16
+0   Storage, Desktop  RN202  RN20223D-100NES  4/29/16
+1   Storage, Desktop  RN202     RN202-100AJS  5/27/16
+2   Storage, Desktop  RN202     RN202-100NES  5/31/16
+3   Storage, Desktop  RN202     RN202-100PRS  8/19/16
+4   Storage, Desktop  RN204  RN20442D-100NES  4/29/16
+5   Storage, Desktop  RN204  RN20443D-100NES  4/29/16
+6   Storage, Desktop  RN204     RN204-100AJS  5/27/16
+7   Storage, Desktop  RN204     RN204-100NES  5/31/16
+8   Storage, Desktop  RN204     RN204-100INS  7/12/16
+9   Storage, Desktop  RN204  RN20422D-100NES  8/19/16
+10  Storage, Desktop  RN204  RN20423D-100NES  8/19/16
+11  Storage, Desktop  RN204  RN20441D-100NES  8/19/16
+12  Storage, Desktop  RN204     RN204-100PRS  11/7/17
+13  Storage, Desktop  RN212  RN212D23-100NES   1/1/18
+14  Storage, Desktop  RN212  RN212D21-100NES   3/1/18
+15  Storage, Desktop  RN212  RN212D22-100AJS   5/1/18
+16  Storage, Desktop  RN212  RN212D23-100AJS   6/1/18
+17  Storage, Desktop  RN212  RN212D21-100AJS   1/1/19
+18  Storage, Desktop  RN212  RN212D22-100PRS  11/1/19
+19  Storage, Desktop  RN212   RN21200-100PRS   1/1/20
+20  Storage, Desktop  RN212  RN212D22-100NES   2/1/21
+21  Storage, Desktop  RN212   RN21200-100NES   3/1/21
+22  Storage, Desktop  RN212   RN21200-100AJS   5/1/21
+23  Storage, Desktop  RN212  RN212D23-100INS   5/1/21
+24  Storage, Desktop  RN212   RN21200-100INS   8/1/21
+25  Storage, Desktop  RN212  RN212D21-100PRS   6/1/23
+26  Storage, Desktop  RN212  RN212D23-100PRS   6/1/23
+27  Storage, Desktop  RN214  RN214D43-100NES   1/1/18
+28  Storage, Desktop  RN214  RN214D41-100NES   3/1/18
+29  Storage, Desktop  RN214  RN214D43-100AJS   6/1/18
+30  Storage, Desktop  RN214  RN214D42-100AJS   9/1/18
+31  Storage, Desktop  RN214  RN214D41-100AJS   1/1/19
+32  Storage, Desktop  RN214   RN21400-100PRS  11/1/19
+33  Storage, Desktop  RN214  RN214D42-100PRS  11/1/19
+34  Storage, Desktop  RN214   RN21400-100AJS   4/1/21
+35  Storage, Desktop  RN214  RN214D42-100NES   5/1/21
+36  Storage, Desktop  RN214   RN21400-100INS   8/1/21
+37  Storage, Desktop  RN214   RN21400-100NES   8/1/21
+38  Storage, Desktop  RN214  RN214D41-100PRS   6/1/23
+39  Storage, Desktop  RN214  RN214D43-100PRS   6/1/23
+40  Storage, Desktop  RN312  RN31221D-100PRS   1/8/14
+41  Storage, Desktop  RN312   RN31200-100AJS   3/1/17
+42  Storage, Desktop  RN312   RN31200-100NAS   3/1/17
+43  Storage, Desktop  RN312   RN31200-100PRS   3/1/17
+44  Storage, Desktop  RN312  RN31221D-100NAS   3/1/17
+45  Storage, Desktop  RN312  RN31222D-100EUS   3/1/17
+46  Storage, Desktop  RN312  RN31222D-100NAS   3/1/17
+47  Storage, Desktop  RN312  RN31222E-100AJS   3/1/17
+48  Storage, Desktop  RN312  RN31222E-100EUS   3/1/17
+49  Storage, Desktop  RN312  RN31222E-100NAS   3/1/17
+50  Storage, Desktop  RN312  RN31221D-100EUS   3/7/17
+51  Storage, Desktop  RN312  RN31221E-100AJS   4/1/17
+52  Storage, Desktop  RN312  RN31221E-100NAS   4/1/17
+53  Storage, Desktop  RN312   RN31200-100EUS  10/1/18
+54  Storage, Desktop  RN314  RN31441D-100PRS   1/8/14
+55  Storage, Desktop  RN314  RN31441D-100EUS  3/31/16
+56  Storage, Desktop  RN314  RN31441E-100EUS  3/31/16,     Storage, Desktop  RN314  RN31441D-100NAS    3/1/17
+0   Storage, Desktop  RN314  RN31442D-100NAS    3/1/17
+1   Storage, Desktop  RN314  RN31442E-100NAS    3/1/17
+2   Storage, Desktop  RN314  RN31443D-100EUS    3/1/17
+3   Storage, Desktop  RN314  RN31443D-100NAS    3/1/17
+4   Storage, Desktop  RN314  RN31443E-100NAS    3/1/17
+5   Storage, Desktop  RN314   RN31400-100NAS    3/7/17
+6   Storage, Desktop  RN314   RN31400-100AJS    4/1/17
+7   Storage, Desktop  RN314   RN31400-100EUS    4/1/17
+8   Storage, Desktop  RN314  RN31442D-100EUS    4/1/17
+9   Storage, Desktop  RN314  RN31443E-100AJS    4/1/17
+10  Storage, Desktop  RN314  RN31444E-100AJS    4/1/17
+11  Storage, Desktop  RN314  RN31441E-100AJS    7/1/17
+12  Storage, Desktop  RN314   RN31400-100PRS    2/3/18
+13  Storage, Desktop  RN314  RN31442E-100EUS   3/18/18
+14  Storage, Desktop  RN314  RN31442E-100AJS   4/17/21
+15  Storage, Desktop  RN316  RN31661D-100PRS    1/8/14
+16  Storage, Desktop  RN316  RN31661E-100NAS  12/30/16
+17  Storage, Desktop  RN316  RN31664E-100NAS  12/30/16
+18  Storage, Desktop  RN316   RN31600-100AJS   11/1/17
+19  Storage, Desktop  RN316   RN31600-100EUS   11/1/17
+20  Storage, Desktop  RN316   RN31600-100NAS   11/1/17
+21  Storage, Desktop  RN316   RN31600-100INS    3/1/18
+22  Storage, Desktop  RN316   RN31600-100PRS    3/1/18
+23  Storage, Desktop  RN316  RN31661D-100NAS    3/1/18
+24  Storage, Desktop  RN316  RN31662D-100EUS    3/1/18
+25  Storage, Desktop  RN316  RN31662D-100NAS    3/1/18
+26  Storage, Desktop  RN316  RN31662E-100EUS    3/1/18
+27  Storage, Desktop  RN316  RN31662E-100NAS    3/1/18
+28  Storage, Desktop  RN316  RN31664E-100EUS    3/1/18
+29  Storage, Desktop  RN316  RN31661E-100EUS    4/1/18
+30  Storage, Desktop  RN422   RN422D2-100AJS    5/1/18
+31  Storage, Desktop  RN422   RN42200-100PRS   11/1/19
+32  Storage, Desktop  RN422   RN422D6-100NES    2/1/20
+33  Storage, Desktop  RN422   RN422D6-100AJS   10/1/20
+34  Storage, Desktop  RN422   RN422E4-100AJS    1/1/21
+35  Storage, Desktop  RN422   RN42200-100AJS    2/1/21
+36  Storage, Desktop  RN422   RN422D4-100AJS    2/1/21
+37  Storage, Desktop  RN422   RN422E2-100AJS    2/1/21
+38  Storage, Desktop  RN422   RN422E6-100AJS    2/1/21
+39  Storage, Desktop  RN422   RN42200-100NES    3/1/21
+40  Storage, Desktop  RN422   RN422D2-100NES    5/1/21
+41  Storage, Desktop  RN422   RN422D4-100NES    5/1/21
+42  Storage, Desktop  RN422   RN422E2-100NES    5/1/21
+43  Storage, Desktop  RN422   RN422E4-100NES    5/1/21
+44  Storage, Desktop  RN422   RN422E6-100NES    5/1/21
+45  Storage, Desktop  RN424   RN424D2-100AJS    5/1/18
+46  Storage, Desktop  RN424   RN424D6-100NES   2/21/20
+47  Storage, Desktop  RN424   RN42400-100INS    2/1/21
+48  Storage, Desktop  RN424   RN42400-100PRS    2/1/21
+49  Storage, Desktop  RN424   RN424D4-100AJS    2/1/21
+50  Storage, Desktop  RN424   RN424E4-100AJS    2/1/21
+51  Storage, Desktop  RN424   RN424E6-100AJS    2/1/21
+52  Storage, Desktop  RN424   RN42400-100AJS    3/1/21
+53  Storage, Desktop  RN424   RN42400-100NES    6/1/21
+54  Storage, Desktop  RN424   RN424D2-100NES    8/1/21
+55  Storage, Desktop  RN424   RN424D4-100NES    8/1/21
+56  Storage, Desktop  RN424   RN424E2-100NES    8/1/21
+57  Storage, Desktop  RN424   RN424E4-100NES    9/1/21,     Storage, Desktop   RN426   RN426E4-100AJS   11/1/19
+0   Storage, Desktop   RN426   RN42600-100NES    3/1/20
+1   Storage, Desktop   RN426   RN426D2-100NES    3/1/20
+2   Storage, Desktop   RN426   RN426D4-100NES    3/1/20
+3   Storage, Desktop   RN426  RN426E22-100NES    3/1/20
+4   Storage, Desktop   RN426   RN426E4-100NES    3/1/20
+5   Storage, Desktop   RN426   RN426E6-100NES    3/1/20
+6   Storage, Desktop   RN426   RN426E2-100NES   3/21/20
+7   Storage, Desktop   RN426   RN42600-100AJS    2/1/21
+8   Storage, Desktop   RN428   RN428E4-100AJS   11/1/19
+9   Storage, Desktop   RN428   RN42800-100INS    5/1/20
+10  Storage, Desktop   RN428   RN42800-100AJS   6/21/20
+11  Storage, Desktop   RN428   RN428E4-100NES    7/1/20
+12  Storage, Desktop   RN428   RN428E6-100NES    7/1/20
+13  Storage, Desktop   RN428   RN42800-100NES    4/1/21
+14  Storage, Desktop   RN428   RN428E1-100AJS    2/1/22
+15  Storage, Desktop   RN428   RN428E1-100NES    2/1/22
+16  Storage, Desktop   RN428   RN428E6-100AJS    2/1/22
+17  Storage, Desktop   RN516  RN51661E-100PRS    1/8/14
+18  Storage, Desktop   RN516  RN51663E-100EUS  12/30/16
+19  Storage, Desktop   RN516  RN51664E-100NAS    5/1/17
+20  Storage, Desktop   RN516  RN51664E-100AJS   5/31/17
+21  Storage, Desktop   RN516  RN51661E-100NAS   11/1/17
+22  Storage, Desktop  RN524X  RN524XD2-100AJS    5/1/18
+23  Storage, Desktop  RN524X  RN524XE3-100NES    8/1/18
+24  Storage, Desktop  RN524X  RN524XD4-100NES   11/1/18
+25  Storage, Desktop  RN524X  RN524XD6-100NES    1/1/19
+26  Storage, Desktop  RN524X  RN524X00-100AJS    4/1/19
+27  Storage, Desktop  RN524X  RN524X00-100INS    4/1/19
+28  Storage, Desktop  RN524X  RN524X00-100NES    4/1/19
+29  Storage, Desktop  RN524X  RN524X00-100PRS    4/1/19
+30  Storage, Desktop  RN524X  RN524XE4-100AJS    4/1/19
+31  Storage, Desktop  RN524X  RN524XE4-100NES    4/1/19
+32  Storage, Desktop  RN524X  RN524XE6-100NES    4/1/19
+33  Storage, Desktop  RN524X  RN524XD4-100AJS    6/1/23
+34  Storage, Desktop  RN526X  RN526XD3-100NES    1/1/18
+35  Storage, Desktop  RN526X  RN526XE3-100NES    6/1/18
+36  Storage, Desktop  RN526X  RN526XE3-100AJS    7/1/18
+37  Storage, Desktop  RN526X  RN526XD2-100AJS    1/1/19
+38  Storage, Desktop  RN526X  RN526XD3-100AJS    1/1/19
+39  Storage, Desktop  RN526X  RN526X00-100PRS   11/1/19
+40  Storage, Desktop  RN526X  RN526XD2-100PRS   11/1/19
+41  Storage, Desktop  RN526X  RN526XD6-100PRS   11/1/19
+42  Storage, Desktop  RN526X  RN526XE2-100PRS   11/1/19
+43  Storage, Desktop  RN526X  RN526XE6-100AJS   11/1/19
+44  Storage, Desktop  RN526X  RN526X00-100NES    3/1/20
+45  Storage, Desktop  RN526X  RN526XD4-100NES    3/1/20
+46  Storage, Desktop  RN526X  RN526XD6-100NES    3/1/20
+47  Storage, Desktop  RN526X  RN526XE4-100NES    3/1/20
+48  Storage, Desktop  RN526X  RN526XE6-100NES    3/1/20
+49  Storage, Desktop  RN526X  RN526XE4-100AJS    6/1/20
+50  Storage, Desktop  RN526X  RN526X00-100AJS   8/21/20
+51  Storage, Desktop  RN526X  RN526X00-100INS   8/21/20
+52  Storage, Desktop  RN526X  RN526XD3-100PRS   12/1/22
+53  Storage, Desktop  RN526X  RN526XD4-100AJS   12/1/22
+54  Storage, Desktop  RN526X  RN526XD4-100PRS   12/1/22
+55  Storage, Desktop  RN526X  RN526XD6-100AJS   12/1/22,       Storage, Desktop   RN526X   RN526XE2-100AJS   12/1/22
+0     Storage, Desktop   RN528X   RN528XE3-100NES   10/1/18
+1     Storage, Desktop   RN528X   RN528X00-100AJS   11/1/19
+2     Storage, Desktop   RN528X   RN528X00-100INS   11/1/19
+3     Storage, Desktop   RN528X   RN528X00-100PRS   11/1/19
+4     Storage, Desktop   RN528X   RN528XE4-100AJS   11/1/19
+5     Storage, Desktop   RN528X   RN528XE6-100NES   12/1/20
+6     Storage, Desktop   RN528X   RN528XE4-100NES  12/21/20
+7     Storage, Desktop   RN528X   RN528X00-100NES    1/1/21
+8     Storage, Desktop   RN626X   RN626XE3-100NES    6/1/18
+9     Storage, Desktop   RN626X   RN626XE3-100AJS    7/1/18
+10    Storage, Desktop   RN626X   RN626XE2-100PRS   11/1/19
+11    Storage, Desktop   RN626X   RN626XE4-100PRS   11/1/19
+12    Storage, Desktop   RN626X   RN626XE6-100PRS   11/1/19
+13    Storage, Desktop   RN626X   RN626X00-100AJS    2/1/21
+14    Storage, Desktop   RN626X   RN626X00-100INS    2/1/21
+15    Storage, Desktop   RN626X   RN626X00-100PRS    2/1/21
+16    Storage, Desktop   RN626X   RN626XE2-100AJS    2/1/21
+17    Storage, Desktop   RN626X   RN626XE2-100NES    2/1/21
+18    Storage, Desktop   RN626X   RN626XE4-100NES    2/1/21
+19    Storage, Desktop   RN626X   RN626XE6-100AJS    2/1/21
+20    Storage, Desktop   RN626X   RN626XE6-100NES    2/1/21
+21    Storage, Desktop   RN626X   RN626X00-100NES    3/1/21
+22    Storage, Desktop   RN626X   RN626XE3-100PRS    6/1/23
+23    Storage, Desktop   RN628X   RN628XE3-100NES    6/1/18
+24    Storage, Desktop   RN628X   RN628X00-100AJS    2/1/21
+25    Storage, Desktop   RN628X   RN628X00-100INS    2/1/21
+26    Storage, Desktop   RN628X   RN628X00-100NES    2/1/21
+27    Storage, Desktop   RN628X   RN628X00-100PRS    2/1/21
+28    Storage, Desktop   RN628X   RN628XE4-100AJS    2/1/21
+29    Storage, Desktop   RN628X   RN628XE4-100NES    2/1/21
+30    Storage, Desktop   RN628X   RN628XE6-100NES    2/1/21
+31    Storage, Desktop   RN716X     RN716X-100AJS    4/1/17
+32    Storage, Desktop   RN716X     RN716X-100NES    4/1/17
+33    Storage, Desktop    RNACC    RTRAY05-10000S    1/1/19
+34    Storage, Desktop    RNVMS   RNVMSMA1-10000S    7/1/18
+35    Storage, Desktop    RNVMS   RNVMSMA4-10000S    9/1/18
+36    Storage, Desktop    RNVMS   RNVMSMA8-10000S    9/1/18
+37  Storage, Rackmount   RN_ACC     RPSU03-10000S   10/1/21
+38  Storage, Rackmount  RN00RPL   RN00RPL1-10000S    7/1/20
+39  Storage, Rackmount   RN2120     RN2120-100EUS  10/31/14
+40  Storage, Rackmount   RN2120   RN21241D-100NAS  10/31/14
+41  Storage, Rackmount   RN2120   RN21241E-100EUS  10/31/14
+42  Storage, Rackmount   RN2120   RN21241E-100NAS  10/31/14
+43  Storage, Rackmount   RN2120   RN21242D-100EUS  10/31/14
+44  Storage, Rackmount   RN2120   RN21242D-100NAS  10/31/14
+45  Storage, Rackmount   RN2120   RN21242E-100EUS  10/31/14
+46  Storage, Rackmount   RN2120   RN21242E-100NAS  10/31/14
+47  Storage, Rackmount   RN2120   RN21243E-100EUS  10/31/14
+48  Storage, Rackmount   RN2120   RN21243E-100NAS  10/31/14
+49  Storage, Rackmount   RN2120   RN21244E-100EUS  10/31/14
+50  Storage, Rackmount   RN2120   RN21244E-100NAS  10/31/14
+51  Storage, Rackmount   RN2120     RN2120-100AJS  11/28/14
+52  Storage, Rackmount   RN2120   RN21243E-100AJS  11/28/14
+53  Storage, Rackmount   RN2120     RN2120-100PRS   6/24/16
+54  Storage, Rackmount   RN2120  RN21241DC-200NES   7/12/16
+55  Storage, Rackmount   RN2120     RN2120-200AJS   10/1/17
+56  Storage, Rackmount   RN2120   RN21244E-200NES   10/1/17
+57  Storage, Rackmount   RN2120     RN2120-100NAS   11/1/17,     Storage, Rackmount     RN2120   RN21241E-200NES   11/1/17
+0   Storage, Rackmount     RN2120   RN21241D-200AJS    6/1/18
+1   Storage, Rackmount     RN3130   RN31342E-100AJS   2/11/15
+2   Storage, Rackmount     RN3130     RN3130-100PRS    3/1/17
+3   Storage, Rackmount     RN3130     RN3130-100AJS   9/10/17
+4   Storage, Rackmount     RN3138   RN31843D-100NES    1/1/18
+5   Storage, Rackmount     RN3138   RN31842D-100NES    3/1/18
+6   Storage, Rackmount     RN3138   RN31842E-100AJS    3/1/18
+7   Storage, Rackmount     RN3138   RN31843E-100AJS    3/1/18
+8   Storage, Rackmount     RN3138   RN31843E-100NES    3/1/18
+9   Storage, Rackmount     RN3138   RN31842D-100AJS    5/1/18
+10  Storage, Rackmount     RN3138   RN31843D-100AJS   10/1/18
+11  Storage, Rackmount     RN3138   RN31842E-100NES   10/1/19
+12  Storage, Rackmount     RN3138     RN3138-100PRS   11/1/19
+13  Storage, Rackmount     RN3138     RN3138-100INS    8/1/20
+14  Storage, Rackmount     RN3138   RN31844E-100AJS    1/1/21
+15  Storage, Rackmount     RN3138     RN3138-100NES    4/1/21
+16  Storage, Rackmount     RN3138   RN31846E-100NES    4/1/21
+17  Storage, Rackmount     RN3138   RN31844E-100NES    5/1/21
+18  Storage, Rackmount     RN3138     RN3138-100AJS    7/1/21
+19  Storage, Rackmount     RN3138   RN31846E-100AJS    6/1/23
+20  Storage, Rackmount     RN3220     RN3220-100AJS   5/30/16
+21  Storage, Rackmount     RN3220     RN3220-100NES   5/30/16
+22  Storage, Rackmount     RN3220     RN3220-100PRS   5/30/16
+23  Storage, Rackmount     RN3220  RN322122E-100NES   5/30/16
+24  Storage, Rackmount     RN3220   RN32263E-100NES   5/30/16
+25  Storage, Rackmount     RN3220  RN322122E-100AJS  12/30/16
+26  Storage, Rackmount     RN3220  RN322123E-100AJS  12/30/16
+27  Storage, Rackmount     RN3220  RN322124E-100AJS  12/30/16
+28  Storage, Rackmount     RN3220   RN32262E-100AJS  12/30/16
+29  Storage, Rackmount     RN3220   RN32263E-100AJS  12/30/16
+30  Storage, Rackmount     RN4220    RN4220X-100INS   7/12/16
+31  Storage, Rackmount     RN4220  RN422X122-100NES   7/12/16
+32  Storage, Rackmount     RN4220  RN422X62E-100AJS   7/12/16
+33  Storage, Rackmount     RN4220  RN422X62E-100NES   7/12/16
+34  Storage, Rackmount     RN4220  RN422X63E-100AJS   7/12/16
+35  Storage, Rackmount     RN4220  RN422X64E-100NES   8/26/16
+36  Storage, Rackmount     RN4220  RN422X122-100AJS  12/30/16
+37  Storage, Rackmount     RN4220  RN422X123-100AJS  12/30/16
+38  Storage, Rackmount     RN4220  RN422X124-100AJS  12/30/16
+39  Storage, Rackmount     RN4220  RN422X63E-100NES  12/30/16
+40  Storage, Rackmount     RN4220  RN422X64E-100AJS  12/30/16
+41  Storage, Rackmount     RN4220  RN422X124-100NES    7/1/17
+42  Storage, Rackmount     RN4220  RN422X123-100NES    2/1/18
+43  Storage, Rackmount     RN4220    RN4220X-100NES    3/1/18
+44  Storage, Rackmount      RNNVR   RNNVR01L-10000S    4/1/19
+45  Storage, Rackmount      RNNVR   RNNVR04L-10000S    4/1/19
+46  Storage, Rackmount      RNNVR   RNNVR01L-100PRS   10/1/19
+47  Storage, Rackmount      RNNVR   RNNVR04L-100PRS   10/1/19
+48  Storage, Rackmount      RNNVR   RNNVR02L-10000S   11/1/19
+49  Storage, Rackmount  RNRP4_ACC    RTRAY02-10000S    3/1/17
+50  Storage, Rackmount  RNRP4_ACC    RTRAY03-10000S    3/1/17
+51  Storage, Rackmount  RNRP4_ACC    RTRAY01-10000S   11/1/17
+52  Storage, Rackmount  RNRP4_ACC     RMEM02-10000S    2/3/18
+53  Storage, Rackmount  RNRP4_ACC     RFAN01-10000S    3/1/18
+54  Storage, Rackmount  RNRP4_ACC     RFAN02-10000S    3/1/18
+55  Storage, Rackmount  RNRP4_ACC     RMEM03-10000S    3/1/18
+56  Storage, Rackmount  RNRP4_ACC     RFAN03-10000S    7/1/18
+57  Storage, Rackmount  RNRP4_ACC     RFAN04-10000S    8/1/18,     Storage, Rackmount RNRP4_ACC    RMEM05-10000S  10/1/21
+0   Storage, Rackmount    RR2304  RR2304G2-100NES   2/1/20
+1   Storage, Rackmount    RR2304  RR230400-100PRS   3/1/21
+2   Storage, Rackmount    RR2304  RR230400-100INS   5/1/21
+3   Storage, Rackmount    RR2304  RR2304G4-100AJS   5/1/21
+4   Storage, Rackmount    RR2304  RR2304G8-100NES   9/1/21
+5   Storage, Rackmount    RR2304  RR230400-100AJS  10/1/21
+6   Storage, Rackmount    RR2304  RR2304G6-100NES  10/1/21
+7   Storage, Rackmount    RR2304  RR230400-100NES  11/1/21
+8   Storage, Rackmount    RR2304  RR2304G4-100NES  11/1/21
+9   Storage, Rackmount    RR2304  RR2304G2-100AJS   6/1/23
+10  Storage, Rackmount    RR2312  RR2312G4-100AJS   2/1/21
+11  Storage, Rackmount    RR2312  RR2312G6-100AJS   2/1/21
+12  Storage, Rackmount    RR2312  RR2312G6-100NES   2/1/21
+13  Storage, Rackmount    RR2312  RR2312H8-100AJS   2/1/21
+14  Storage, Rackmount    RR2312  RR231200-100PRS   3/1/21
+15  Storage, Rackmount    RR2312  RR231200-100NES   4/1/21
+16  Storage, Rackmount    RR2312  RR2312G4-100NES   4/1/21
+17  Storage, Rackmount    RR2312  RR231200-100INS   5/1/21
+18  Storage, Rackmount    RR2312  RR2312H8-100NES   5/1/21
+19  Storage, Rackmount    RR2312  RR231200-100AJS   6/1/21
+20  Storage, Rackmount    RR3312  RR3312G3-10000S   3/1/18
+21  Storage, Rackmount    RR3312  RR331200-100PRS  11/1/19
+22  Storage, Rackmount    RR3312  RR3312G6-10000S   1/1/20
+23  Storage, Rackmount    RR3312  RR3312G2-10000S   1/1/21
+24  Storage, Rackmount    RR3312  RR3312G4-10000S   1/1/21
+25  Storage, Rackmount    RR3312  RR331200-20000S   2/1/21
+26  Storage, Rackmount    RR3312  RR3312G4-20000S   2/1/21
+27  Storage, Rackmount    RR3312  RR331200-10000S   4/1/21
+28  Storage, Rackmount    RR4312  RR4312S3-10000S   3/1/18
+29  Storage, Rackmount    RR4312  RR4312X3-10000S   3/1/18
+30  Storage, Rackmount    RR4312  RR4312S0-100PRS  11/1/19
+31  Storage, Rackmount    RR4312  RR4312X0-100INS  11/1/19
+32  Storage, Rackmount    RR4312  RR4312X0-100PRS  11/1/19
+33  Storage, Rackmount    RR4312  RR4312X8-10000S   1/1/20
+34  Storage, Rackmount    RR4312  RR4312X0-10000S  3/21/20
+35  Storage, Rackmount    RR4312  RR4312X4-10000S  3/21/20
+36  Storage, Rackmount    RR4312  RR4312X6-10000S  3/21/20
+37  Storage, Rackmount    RR4312  RR4312S4-10000S   6/1/20
+38  Storage, Rackmount    RR4312  RR4312S8-10000S  6/21/20
+39  Storage, Rackmount    RR4312  RR4312S6-10000S   1/1/21
+40  Storage, Rackmount    RR4312  RR4312S0-20000S   2/1/21
+41  Storage, Rackmount    RR4312  RR4312S4-20000S   2/1/21
+42  Storage, Rackmount    RR4312  RR4312X4-20000S   2/1/21
+43  Storage, Rackmount    RR4312  RR4312X6-20000S   2/1/21
+44  Storage, Rackmount    RR4312  RR4312S6-20000S   5/1/21
+45  Storage, Rackmount    RR4312  RR4312S0-10000S  12/1/21
+46  Storage, Rackmount    RR4312  RR4312X0-20000S   7/1/22
+47  Storage, Rackmount    RR4360  RR4360S0-10000S   5/1/21
+48  Storage, Rackmount    RR4360  RR4360X0-10000S   5/1/21
+49  Storage, Rackmount  RRACCSRS  RRSASEXP-10000S   8/1/21
+50  Storage, Rackmount  RRACCSRS    RMEM04-10000S  10/1/21
+51  Storage, Rackmount  RRACCSRS    RPSU06-10000S  10/1/21
+52  Storage, Rackmount  RRACCSRS   RTRAY07-10000S  10/1/21
+53  Storage, Rackmount  RRACCSRS   RTRAY08-10000S  10/1/21,    Storage, Rackmount  RNRP4_ACC  RRAIL04-10000S  8/1/21
+0  Storage, Rackmount  RNRP4_ACC  RTRAY04-10000S  8/1/21,     Storage, ReadyDATA  RD-DRIVES   RDD1LT02-10000S  7/12/16
+0   Storage, ReadyDATA  RD-DRIVES   RDD1LT04-10000S  7/12/16
+1   Storage, ReadyDATA  RD-DRIVES   RDD1SM01-10000S  9/30/16
+2   Storage, ReadyDATA  RD-DRIVES  RD5D1LT06-10000S  1/30/17
+3   Storage, ReadyDATA  RD-DRIVES   RDD1LT06-10000S  2/27/17
+4   Storage, ReadyDATA  RD-DRIVES   RDD1LT03-10000S   2/1/18
+5   Storage, ReadyDATA       RD52  RD5D6LN01-100WWS  7/31/14
+6   Storage, ReadyDATA       RD52  RD5D6LN02-100WWS  7/31/14
+7   Storage, ReadyDATA       RD52  RD5D6LN03-100WWS  7/31/14
+8   Storage, ReadyDATA       RD52  RD5D1LT01-100WWS  4/12/15
+9   Storage, ReadyDATA       RD52  RD5D1LN01-100WWS  1/29/16
+10  Storage, ReadyDATA       RD52  RD5D1LS01-100WWS   4/7/16
+11  Storage, ReadyDATA       RD52     RD5200-100INS  7/12/16
+12  Storage, ReadyDATA       RD52     RD5200-100PRS  7/12/16
+13  Storage, ReadyDATA       RD52  RD5D1LN02-100WWS  7/12/16
+14  Storage, ReadyDATA       RD52  RD5D1LN03-100WWS  7/12/16
+15  Storage, ReadyDATA       RD52  RD5D1LS02-100WWS  7/12/16
+16  Storage, ReadyDATA       RD52  RD5D1LT02-100WWS  7/12/16
+17  Storage, ReadyDATA       RD52  RD5D1LT03-100WWS  7/12/16
+18  Storage, ReadyDATA       RD52  RD5D1SC01-100WWS  7/12/16
+19  Storage, ReadyDATA       RD52  RD5D1SM01-100WWS  7/12/16
+20  Storage, ReadyDATA       RD52  RD5D1SM02-100WWS  7/12/16
+21  Storage, ReadyDATA       RD52  RD5D6LT03-100WWS  7/12/16
+22  Storage, ReadyDATA       RD52  RD5D6LT04-10000S  2/27/17
+23  Storage, ReadyDATA       RD52     RD5200-100WWS   5/1/17
+24  Storage, ReadyDATA       RD52  RD5D6LT01-100WWS   1/1/18
+25  Storage, ReadyDATA       RD52  RD5D1LT04-10000S   3/1/18
+26  Storage, ReadyDATA       RD52  RD5D1LS03-100WWS  3/18/18
+27  Storage, ReadyDATA     RDD500     RDD516-100AJS   2/3/18
+28  Storage, ReadyDATA     RDD500     RDD516-100NES   4/1/18
+29  Storage, ReadyDATA   SOFTWARE  MRRDESK20-10000S   3/1/19
+30  Storage, ReadyDATA   SOFTWARE  MRRDESK2K-10000S   3/1/19
+31  Storage, ReadyDATA   SOFTWARE  MRRDESK4K-10000S   3/1/19
+32  Storage, ReadyDATA   SOFTWARE    MRRGRE1-10000S   3/1/19
+33  Storage, ReadyDATA   SOFTWARE    MRRSBS1-10000S   3/1/19
+34  Storage, ReadyDATA   SOFTWARE   MRRSERV1-10000S   3/1/19
+35  Storage, ReadyDATA   SOFTWARE   MRRVIRT1-10000S   3/1/19
+36  Storage, ReadyDATA   SOFTWARE  MRRVIRT12-10000S   3/1/19
+37  Storage, ReadyDATA   SOFTWARE  MRRVIRT24-10000S   3/1/19
+38  Storage, ReadyDATA   SOFTWARE   MRRVIRT6-10000S   3/1/19
+39  Storage, ReadyDATA   SOFTWARE  MRRVIRT50-10000S  10/1/19
+40  Storage, ReadyDATA   SOFTWARE   RRDESK01-10000S   2/1/21
+41  Storage, ReadyDATA   SOFTWARE   MRRDESK1-10000S   9/1/22
+42  Storage, ReadyDATA   SOFTWARE  MRRDESK1C-10000S   9/1/22
+43  Storage, ReadyDATA   SOFTWARE  MRRDESK5C-10000S   9/1/22
+44  Storage, ReadyDATA   SOFTWARE  RRDESK100-10000S   9/1/22
+45  Storage, ReadyDATA   SOFTWARE   RRDESK20-10000S   9/1/22
+46  Storage, ReadyDATA   SOFTWARE   RRDESK2K-10000S   9/1/22
+47  Storage, ReadyDATA   SOFTWARE    RRSBS01-10000S   9/1/22
+48  Storage, ReadyDATA   SOFTWARE   RRVIRT01-10000S   9/1/22
+49  Storage, ReadyDATA   SOFTWARE   RRVIRT06-10000S   9/1/22
+50  Storage, ReadyDATA   SOFTWARE   RRVIRT12-10000S   9/1/22
+51  Storage, ReadyDATA   SOFTWARE   RRVIRT24-10000S   9/1/22
+52  Storage, ReadyDATA   SOFTWARE   RRVIRT50-10000S   9/1/22
+53  Storage, ReadyDATA   SOFTWARE  RRDESK500-10000S  10/1/22,     Switches  APS135W  APS135W-10000S    8/1/17
+0   Switches  APS300W  APS300W-10000S    1/1/18
+1   Switches  APS525W  APS525W-10000S    8/1/17
+2   Switches  AXLM761  AXLM761-10000S    2/1/21
+3   Switches    FS105    FS105-200PES  10/11/14
+4   Switches    FS105         FS105UK   12/1/14
+5   Switches    FS105    FS105-100UKS  12/31/14
+6   Switches    FS105         FS105NA   10/1/20
+7   Switches    FS105    FS105-300UKS    1/1/21
+8   Switches    FS105    FS105-300PES    3/1/21
+9   Switches    FS108         FS108UK   12/1/14
+10  Switches    FS108    FS108-100UKS  12/31/14
+11  Switches    FS108    FS108-200PES   6/18/15
+12  Switches    FS108    FS108-300PES    3/1/21
+13  Switches    FS108         FS108NA    9/1/21
+14  Switches    FS108    FS108-300UKS   11/1/21
+15  Switches   FS108P        FS108PAU    6/1/15
+16  Switches   FS108P   FS108P-300AUS   1/29/16
+17  Switches   FS108P   FS108P-300INS   11/1/18
+18  Switches   FS108P   FS108P-300NAS    4/1/20
+19  Switches   FS108P        FS108PNA    4/1/20
+20  Switches   FS108P   FS108P-300EUS    6/1/20
+21  Switches   FS108P        FS108PEU    6/1/20
+22  Switches   FS108P   FS108P-300PRS   3/17/21
+23  Switches    FS116    FS116-100NAS    4/1/19
+24  Switches    FS116         FS116NA    4/1/19
+25  Switches    FS116     FS116-100GE    9/1/19
+26  Switches    FS116         FS116GE    9/1/19
+27  Switches   FS116P        FS116PAU    6/1/15
+28  Switches   FS116P   FS116P-200PRS    9/1/18
+29  Switches   FS116P   FS116P-200INS   10/1/19
+30  Switches   FS116P        FS116PEU   12/1/20
+31  Switches   FS116P        FS116PNA   12/1/20
+32  Switches   FS116P    FS11P-200NAS   12/1/20
+33  Switches   FS116P   FS116P-100EUS    3/1/21
+34  Switches    FS205    FS205-100KOS  12/31/14
+35  Switches    FS205    FS205-100UKS   11/9/15
+36  Switches    FS205    FS205-100NAS    4/1/21
+37  Switches    FS205    FS205-100PAS    4/1/21
+38  Switches    FS205    FS205-100PES   11/1/22
+39  Switches    FS208    FS208-100UKS   5/12/14
+40  Switches    FS208    FS208-100AUS  12/25/14
+41  Switches    FS208    FS208-100KOS  12/31/14
+42  Switches    FS208    FS208-100INS    6/1/18
+43  Switches    FS208    FS208-100PES   10/1/21
+44  Switches    FS305    FS305-100UKS   5/12/14
+45  Switches    FS305    FS305-100PES   3/31/17
+46  Switches    FS308    FS308-100UKS   5/12/14
+47  Switches    FS308    FS308-100AUS  12/31/15
+48  Switches    FS308    FS308-100PES   6/30/16
+49  Switches    FS308    FS308-100PRS  12/30/16
+50  Switches   FS526T   FS526T-200AJS   7/26/15
+51  Switches   FS526T   FS526T-200NAS  10/25/15,     Switches     FS605     FS605-100UKS   8/31/15
+0   Switches     FS605          FS605NA   12/1/15
+1   Switches     FS605     FS605-100NAS   3/31/16
+2   Switches     FS605     FS605-400PES   3/31/16
+3   Switches     FS605     FS605-400UKS   6/27/17
+4   Switches     FS608     FS608-300PES    1/9/14
+5   Switches     FS608     FS608-100NAS  12/25/14
+6   Switches     FS608     FS608-400PES   3/31/16
+7   Switches    FS726T    FS726T-200PRS   11/1/15
+8   Switches  FS728TLP  FS728TLP-100NAS    2/1/19
+9   Switches  FS728TLP  FS728TLP-100PRS    2/1/19
+10  Switches  FS728TLP  FS728TLP-100AJS   10/1/19
+11  Switches  FS728TLP  FS728TLP-100EUS    1/1/21
+12  Switches   FS728TP   FS728TP-200PRS    1/1/20
+13  Switches   FS728TP   FS728TP-200INS    9/1/20
+14  Switches   FS728TP   FS728TP-100NAS   10/1/20
+15  Switches   FS728TP   FS728TP-200AJS    7/1/21
+16  Switches   FS728TP   FS728TP-100EUS    4/1/22
+17  Switches   FS750T2        FS750T2AU    6/1/15
+18  Switches   FS750T2   FS750T2-100AUS   6/14/15
+19  Switches   FS750T2        FS750T2EU    7/1/16
+20  Switches   FS750T2   FS750T2-100EUS   7/24/16
+21  Switches   FS750T2        FS750T2NA   10/1/16
+22  Switches   FS750T2   FS750T2-100NAS  10/30/16
+23  Switches   FS752TP   FS752TP-100AJS   8/30/13
+24  Switches  FSM5210P  FSM5210P-100AJS    2/3/15
+25  Switches  FSM5210P  FSM5210P-100NES    2/3/15
+26  Switches  FSM7226P  FSM7226P-100AJS    2/3/15
+27  Switches  FSM7226P  FSM7226P-100NES   6/30/15
+28  Switches  FSM7250P  FSM7250P-100AJS    1/3/18
+29  Switches  FSM7250P  FSM7250P-100NES    6/1/18
+30  Switches    GC108P    GC108P-100PRS    7/1/20
+31  Switches    GC108P    GC108P-100AUS    6/1/21
+32  Switches    GC108P    GC108P-100JPS    6/1/21
+33  Switches    GC108P    GC108P-100NAS    6/1/21
+34  Switches    GC108P    GC108P-100UKS   11/1/21
+35  Switches    GC108P    GC108P-100PES   12/1/21
+36  Switches   GC108PP   GC108PP-100PRS    7/1/20
+37  Switches   GC108PP   GC108PP-100JPS    6/1/21
+38  Switches   GC108PP   GC108PP-100AUS    7/1/21
+39  Switches   GC108PP   GC108PP-100NAS   11/1/21
+40  Switches   GC108PP   GC108PP-100UKS   11/1/21
+41  Switches   GC108PP   GC108PP-100PES    2/1/23
+42  Switches     GC110     GC110-100PRS    5/1/20
+43  Switches     GC110     GC110-100PES   5/10/20
+44  Switches     GC110     GC110-100JPS    6/1/20
+45  Switches     GC110     GC110-100UKS    6/1/20
+46  Switches     GC110     GC110-100KOS    7/1/20
+47  Switches     GC110     GC110-100NAS    7/1/20
+48  Switches     GC110     GC110-100AUS    4/1/21
+49  Switches    GC110P    GC110P-100AUS   11/1/19
+50  Switches    GC110P    GC110P-100PES    5/1/20
+51  Switches    GC110P    GC110P-100PRS    5/1/20
+52  Switches    GC110P    GC110P-100UKS    6/1/20
+53  Switches    GC110P    GC110P-100JPS    7/1/20
+54  Switches    GC110P    GC110P-100NAS   10/1/20,     Switches   GC510PP   GC510PP-100EUS    5/1/20
+0   Switches   GC510PP   GC510PP-100AJS    6/1/20
+1   Switches   GC510PP   GC510PP-100NAS    9/1/20
+2   Switches    GC728X    GC728X-100AJS    4/1/21
+3   Switches    GC728X    GC728X-100EUS    4/1/21
+4   Switches    GC728X    GC728X-100NAS   11/1/21
+5   Switches   GC728XP   GC728XP-100AJS    7/1/21
+6   Switches   GC728XP   GC728XP-100EUS   11/1/21
+7   Switches   GC728XP   GC728XP-100NAS    3/1/22
+8   Switches    GC752X    GC752X-100PRS    6/1/20
+9   Switches    GC752X    GC752X-100NAS    8/1/20
+10  Switches    GC752X    GC752X-100AJS   10/1/20
+11  Switches    GC752X    GC752X-100EUS   10/1/20
+12  Switches   GC752XP   GC752XP-100NAS    6/1/21
+13  Switches   GC752XP   GC752XP-100AJS    7/1/21
+14  Switches   GC752XP   GC752XP-100EUS    7/1/22
+15  Switches     GS105   GS105K2-500NAS    9/1/19
+16  Switches    GS105E  GS105EVC-1SCGES  10/28/14
+17  Switches    GS105E    GS105E-2A1NAS    3/1/21
+18  Switches   GS105PE   GS105PE-10000S  10/28/14
+19  Switches     GS108          GS108NA    4/1/15
+20  Switches     GS108     GS108-100NAS   10/4/15
+21  Switches     GS108     GS108-4A1NAS    4/3/16
+22  Switches    GS108E    GS108E-2SCPES    1/8/16
+23  Switches    GS108E    GS108E-300INS   1/14/22
+24  Switches    GS108E    GS108E-300AUS   12/1/22
+25  Switches    GS108E    GS108E-300JPS   12/1/22
+26  Switches    GS108E    GS108E-300NAS   12/1/22
+27  Switches    GS108E    GS108E-300PES   12/1/22
+28  Switches    GS108E    GS108E-300PRS   12/1/22
+29  Switches    GS108E    GS108E-300UKS   12/1/22
+30  Switches    GS108P    GS108P-100AJS   6/11/14
+31  Switches    GS108P    GS108P-100EUS   6/11/14
+32  Switches    GS108P    GS108P-100NAS   6/11/14
+33  Switches   GS108PE   GS108PE-100EUS    9/9/14
+34  Switches   GS108PE   GS108PE-300AJS    8/1/18
+35  Switches   GS108PE   GS108PE-300PRS    8/1/20
+36  Switches   GS108PE   GS108PE-300INS   12/1/21
+37  Switches   GS108PE   GS108PE-300AUS    6/1/22
+38  Switches   GS108PE   GS108PE-300EUS    6/1/22
+39  Switches   GS108PE   GS108PE-300JPS    6/1/22
+40  Switches   GS108PE   GS108PE-300NAS    1/1/23
+41  Switches   GS108PP   GS108PP-100PRS    8/1/20
+42  Switches    GS108T    GS108T-200AUS    5/1/19
+43  Switches    GS108T    GS108T-200JPS    5/1/19
+44  Switches    GS108T    GS108T-200NAS    8/1/19
+45  Switches    GS108T    GS108T-200UKS   10/1/19
+46  Switches    GS108T    GS108T-200GES   11/1/19
+47  Switches    GS108T    GS108T-200PRS    1/1/21
+48  Switches    GS108T    GS108T-300AUS   11/1/21
+49  Switches  GS110EMX  GS110EMX-100PRS    2/3/21
+50  Switches  GS110EMX  GS110EMX-100AUS    3/1/21
+51  Switches  GS110EMX  GS110EMX-100UKS   11/1/22
+52  Switches  GS110EMX  GS110EMX-100JPS    9/1/23
+53  Switches  GS110EMX  GS110EMX-100PES    9/1/23
+54  Switches   GS110MX   GS110MX-100AUS    4/1/20
+55  Switches   GS110MX   GS110MX-100PRS    8/1/20
+56  Switches   GS110MX   GS110MX-100UKS   11/1/22,     Switches   GS110TP   GS110TP-100EUS   4/8/14
+0   Switches   GS110TP   GS110TP-200INS   5/1/19
+1   Switches   GS110TP   GS110TP-200AJS   6/1/19
+2   Switches   GS110TP   GS110TP-200EUS   8/1/19
+3   Switches   GS110TP   GS110TP-200NAS  10/1/19
+4   Switches   GS110TP   GS110TP-300INS   5/1/21
+5   Switches   GS110TP   GS110TP-300PRS   9/1/21
+6   Switches  GS110TPP  GS110TPP-100AJS  11/1/21
+7   Switches  GS110TPP  GS110TPP-100INS  12/1/21
+8   Switches  GS110TPP  GS110TPP-100NAS  12/1/21
+9   Switches  GS110TPP  GS110TPP-100EUS   2/1/23
+10  Switches  GS110TUP  GS110TUP-100NAS  9/28/21
+11  Switches  GS110TUP  GS110TUP-100AJS  3/24/22
+12  Switches  GS110TUP  GS110TUP-100EUS  3/24/22
+13  Switches  GS110TUP  GS110TUP-100PRS   7/1/22
+14  Switches     GS116     GS116-200PRS  7/31/14
+15  Switches    GS116E    GS116E-200UKS   9/1/21
+16  Switches    GS116E    GS116E-200AUS  11/1/21
+17  Switches    GS116E    GS116E-200JPS  11/1/21
+18  Switches    GS116E    GS116E-200NAS  11/1/21
+19  Switches    GS116E    GS116E-200PES  11/1/21
+20  Switches    GS116E    GS116E-200PRS  11/1/21
+21  Switches   GS116PP   GS116PP-100PRS   3/1/21
+22  Switches     GS205     GS205-100PAS   7/1/22
+23  Switches     GS205     GS205-100UKS   7/1/22
+24  Switches     GS205     GS205-100AUS  8/31/22
+25  Switches     GS205     GS205-100PES  11/1/22
+26  Switches     GS208     GS208-100INS   3/1/21
+27  Switches     GS208     GS208-100UKS  11/1/21
+28  Switches     GS208     GS208-100PES  12/1/21
+29  Switches     GS208     GS208-100AUS   1/1/22
+30  Switches     GS208     GS208-100PAS   7/1/22
+31  Switches     GS208     GS208-100PRS   7/1/22
+32  Switches     GS305     GS305-100AUS  6/30/15
+33  Switches     GS305     GS305-100UKS   4/1/19
+34  Switches     GS305     GS305-100PAS   7/1/19
+35  Switches     GS305     GS305-100PES   8/1/19
+36  Switches     GS305     GS305-100JPS  10/1/20
+37  Switches    GS305E    GS305E-100AUS  12/1/22
+38  Switches    GS305E    GS305E-100JPS  12/1/22
+39  Switches    GS305E    GS305E-100KOS  12/1/22
+40  Switches    GS305E    GS305E-100NAS  12/1/22
+41  Switches    GS305E    GS305E-100PES  12/1/22
+42  Switches    GS305E    GS305E-100UKS  12/1/22
+43  Switches    GS305P    GS305P-100JPS   1/1/21
+44  Switches    GS305P    GS305P-100INS   3/1/21
+45  Switches    GS305P    GS305P-100PES   3/1/21
+46  Switches    GS305P    GS305P-100AUS   4/1/21
+47  Switches    GS305P    GS305P-100UKS   7/1/21
+48  Switches    GS305P    GS305P-100NAS   9/1/21
+49  Switches    GS305P    GS305P-200UKS   9/1/22
+50  Switches    GS305P    GS305P-200AUS  11/1/22
+51  Switches    GS305P    GS305P-200NAS   1/1/23
+52  Switches    GS305P    GS305P-200INS   3/1/23
+53  Switches    GS305P    GS305P-200PES   3/1/23
+54  Switches   GS305PP   GS305PP-100UKS   9/1/22
+55  Switches   GS305PP   GS305PP-100JPS   2/1/23
+56  Switches   GS305PP   GS305PP-100NAS   2/1/23
+57  Switches   GS305PP   GS305PP-100PES   2/1/23,     Switches    GS308    GS308-100PRS   3/1/19
+0   Switches    GS308    GS308-100AUS   7/1/19
+1   Switches    GS308    GS308-100JPS   7/1/19
+2   Switches    GS308    GS308-100PAS   7/1/19
+3   Switches    GS308    GS308-100PES   9/1/19
+4   Switches    GS308    GS308-100UKS   9/1/19
+5   Switches   GS308E   GS308E-100AUS   9/1/22
+6   Switches   GS308E   GS308E-100NAS   9/1/22
+7   Switches   GS308E   GS308E-100JPS  12/1/22
+8   Switches   GS308E   GS308E-100KOS  12/1/22
+9   Switches   GS308E   GS308E-100PES  12/1/22
+10  Switches   GS308E   GS308E-100UKS  12/1/22
+11  Switches   GS308P   GS308P-100AUS   3/1/21
+12  Switches   GS308P   GS308P-100INS   3/1/21
+13  Switches   GS308P   GS308P-100JPS   3/1/21
+14  Switches   GS308P   GS308P-100UKS  12/1/21
+15  Switches   GS308P   GS308P-100NAS  11/1/22
+16  Switches   GS308P   GS308P-100PES  11/1/22
+17  Switches   GS308P   GS308P-100PRS  11/1/22
+18  Switches   GS308T   GS308T-100INS   9/1/20
+19  Switches   GS308T   GS308T-100PRS   9/1/20
+20  Switches   GS308T   GS308T-100UKS   9/1/20
+21  Switches   GS308T   GS308T-100AUS   6/1/22
+22  Switches   GS308T   GS308T-100JPS   9/1/22
+23  Switches   GS308T   GS308T-100NAS  12/1/22
+24  Switches   GS308T   GS308T-100PES  12/1/22
+25  Switches  GS310TP  GS310TP-100PRS   6/1/22
+26  Switches  GS310TP  GS310TP-100AJS   8/1/22
+27  Switches  GS310TP  GS310TP-100EUS  10/1/22
+28  Switches  GS310TP  GS310TP-100INS  10/1/22
+29  Switches  GS310TP  GS310TP-100NAS  11/1/22
+30  Switches    GS316    GS316-100AUS  12/1/21
+31  Switches    GS316    GS316-100INS  12/1/21
+32  Switches    GS316    GS316-100JPS  12/1/21
+33  Switches    GS316    GS316-100NAS  12/1/21
+34  Switches    GS316    GS316-100PES  12/1/21
+35  Switches    GS316    GS316-100PRS  12/1/21
+36  Switches    GS316    GS316-100UKS  12/1/21
+37  Switches    GS316    GS316-100KOS   1/1/22
+38  Switches    GS324    GS324-100AUS  10/1/20
+39  Switches    GS324    GS324-100NAS  12/1/20
+40  Switches    GS324    GS324-100EUS   1/1/21
+41  Switches    GS324    GS324-100PRS   1/1/21
+42  Switches    GS324    GS324-100INS   4/1/21
+43  Switches    GS324    GS324-100JPS   4/1/21
+44  Switches  GS324EP  GS324EP-10000S   5/1/22
+45  Switches  GS324EP  GS324EP-100EUS   5/1/22
+46  Switches  GS324EP  GS324EP-100NAS   5/1/22
+47  Switches  GS324PP  GS324PP-100NAS  10/1/22
+48  Switches  GS324PP  GS324PP-100EUS   1/1/23
+49  Switches  GS324PP  GS324PP-100AJS   5/1/23
+50  Switches   GS324T   GS324T-100PRS  10/1/19
+51  Switches   GS324T   GS324T-100INS   4/1/21
+52  Switches   GS324T   GS324T-100EUS  10/1/22
+53  Switches   GS324T   GS324T-100NAS  10/1/22
+54  Switches   GS324T   GS324T-100AJS  11/1/22
+55  Switches  GS324TP  GS324TP-100PRS  10/1/19,     Switches    GS348T    GS348T-100INS   10/1/19
+0   Switches    GS348T    GS348T-100PRS   10/1/19
+1   Switches    GS348T    GS348T-100NAS    7/1/21
+2   Switches    GS348T    GS348T-100AJS   11/1/21
+3   Switches    GS348T    GS348T-100EUS   11/1/21
+4   Switches  GS408EPP  GS408EPP-100NES   10/1/18
+5   Switches  GS408EPP  GS408EPP-100AJS    4/1/20
+6   Switches  GS408EPP  GS408EPP-100EUS    7/1/20
+7   Switches  GS408EPP  GS408EPP-100NAS    7/1/20
+8   Switches  GS418TPP  GS418TPP-100EUS   10/1/20
+9   Switches  GS418TPP  GS418TPP-100NAS   10/1/20
+10  Switches  GS418TPP  GS418TPP-100PRS   10/1/20
+11  Switches  GS418TPP  GS418TPP-100INS    1/1/21
+12  Switches  GS418TPP  GS418TPP-100AJS    5/1/21
+13  Switches  GS510TLP  GS510TLP-100AJS    3/1/21
+14  Switches  GS510TLP  GS510TLP-100INS    3/1/21
+15  Switches  GS510TLP  GS510TLP-100EUS    9/1/21
+16  Switches  GS510TLP  GS510TLP-100NAS    9/1/21
+17  Switches  GS510TLP  GS510TLP-100PRS   11/1/21
+18  Switches   GS510TP   GS510TP-100EUS    1/1/18
+19  Switches   GS510TP   GS510TP-100INS    1/1/18
+20  Switches   GS510TP   GS510TP-100NAS    1/1/18
+21  Switches   GS510TP   GS510TP-100AJS   10/1/19
+22  Switches   GS510TP   GS510TP-100PRS   10/1/19
+23  Switches  GS510TPP  GS510TPP-100PRS    9/1/21
+24  Switches   GS516TP   GS516TP-100PRS    6/1/18
+25  Switches   GS516TP   GS516TP-100AJS   11/1/18
+26  Switches   GS516TP   GS516TP-100INS   11/1/18
+27  Switches   GS516TP   GS516TP-100NAS   11/1/18
+28  Switches   GS516TP   GS516TP-100EUS    6/1/20
+29  Switches   GS516UP   GS516UP-100AJS    2/1/22
+30  Switches     GS605          GS605AU    1/1/23
+31  Switches     GS608     GS608-400UKS    1/7/15
+32  Switches     GS608          GS608AU   10/1/21
+33  Switches     GS608          GS608NA    1/1/22
+34  Switches     GS608     GS608-400INS    3/1/23
+35  Switches     GS608     GS608-400PES    7/1/23
+36  Switches  GS710TUP  GS710TUP-100EUS    9/1/21
+37  Switches  GS710TUP  GS710TUP-100AJS  10/21/21
+38  Switches  GS710TUP  GS710TUP-100NAS  10/21/21
+39  Switches  GS710TUP  GS710TUP-100PRS  10/21/21
+40  Switches    GS716T  GS716TAV-20000S    5/1/22
+41  Switches    GS716T    GS716T-300AJS    6/1/22
+42  Switches    GS716T    GS716T-300EUS    6/1/22
+43  Switches    GS716T    GS716T-300NAS    6/1/22
+44  Switches   GS716TP   GS716TP-100NAS   10/1/21
+45  Switches   GS716TP   GS716TP-100AJS    6/1/22
+46  Switches   GS716TP   GS716TP-100EUS    6/1/22
+47  Switches  GS716TPP  GS716TPP-100AJS   11/1/21
+48  Switches  GS716TPP  GS716TPP-100EUS   11/1/21
+49  Switches  GS716TPP  GS716TPP-100NAS   11/1/21
+50  Switches   GS724EP   GS724EP-100EUS    5/1/22
+51  Switches   GS724EP   GS724EP-100NAS    5/1/22
+52  Switches   GS724EP   GS724EP-10000S   10/1/22
+53  Switches    GS724T    GS724T-400INS    9/1/23
+54  Switches    GS724T    GS724T-400EUS    3/1/24
+55  Switches    GS724T    GS724T-400NAS    3/1/24
+56  Switches   GS724TP   GS724TP-200AJS   12/1/22,     Switches   GS724TP    GS724TP-200EUS   12/1/22
+0   Switches   GS724TP    GS724TP-200INS   12/1/22
+1   Switches   GS724TP    GS724TP-200NAS   12/1/22
+2   Switches   GS724TP    GS724TP-200PRS   12/1/22
+3   Switches  GS724TPP   GS724TPP-100INS    5/1/21
+4   Switches  GS724TPP   GS724TPP-100AJS   12/1/22
+5   Switches  GS724TPP   GS724TPP-100EUS   12/1/22
+6   Switches  GS724TPP   GS724TPP-100NAS   12/1/22
+7   Switches   GS728TP    GS728TP-100EUS    9/1/18
+8   Switches   GS728TP    GS728TP-100INS    9/1/18
+9   Switches   GS728TP    GS728TP-100NAS    9/1/18
+10  Switches   GS728TP    GS728TP-100AJS   12/1/18
+11  Switches   GS728TP    GS728TP-100PRS   10/1/19
+12  Switches   GS728TP    GS728TP-200PRS    6/1/22
+13  Switches   GS728TP    GS728TP-200INS    8/1/22
+14  Switches   GS728TP    GS728TP-200AJS   12/1/22
+15  Switches   GS728TP    GS728TP-200EUS   12/1/22
+16  Switches   GS728TP    GS728TP-200NAS   12/1/22
+17  Switches  GS728TPP   GS728TPP-100AJS    9/1/18
+18  Switches  GS728TPP   GS728TPP-100EUS    9/1/18
+19  Switches  GS728TPP   GS728TPP-100INS    9/1/18
+20  Switches  GS728TPP   GS728TPP-100PRS    9/1/18
+21  Switches  GS728TPP   GS728TPP-100NAS   12/1/18
+22  Switches  GS728TPP   GS728TPP-200PRS    6/1/22
+23  Switches  GS728TPP   GS728TPP-200INS    8/1/22
+24  Switches  GS728TPP   GS728TPP-200AJS   12/1/22
+25  Switches  GS728TPP   GS728TPP-200EUS   12/1/22
+26  Switches  GS728TPP   GS728TPP-200NAS   12/1/22
+27  Switches  GS728TPS  GS728TPSB-100AJS   3/29/15
+28  Switches  GS728TPS  GS728TPSB-100EUS   3/29/15
+29  Switches  GS728TPS  GS728TPSB-100NAS   3/29/15
+30  Switches   GS728TS   GS728TSB-100AJS   3/29/15
+31  Switches   GS728TS   GS728TSB-100EUS   3/29/15
+32  Switches   GS728TS   GS728TSB-100NAS   3/29/15
+33  Switches   GS728TX    GS728TX-100PRS    9/1/20
+34  Switches   GS728TX    GS728TX-100INS    6/1/21
+35  Switches   GS728TX    GS728TX-100NES    3/1/22
+36  Switches   GS728TX    GS728TX-100AJS    4/1/22
+37  Switches   GS728TX  GS728TXAV-10000S    5/1/22
+38  Switches  GS728TXP   GS728TXP-100PRS    5/1/19
+39  Switches  GS728TXP  G728TXPAV-10000S    5/1/22
+40  Switches  GS728TXP   GS728TXP-100AJS    7/1/22
+41  Switches  GS728TXP   GS728TXP-100NES  10/31/22
+42  Switches  GS728TXS   GS728TXS-100AJS  11/27/14
+43  Switches  GS728TXS   GS728TXS-100PRS  11/27/14
+44  Switches  GS728TXS   GS728TXS-100NES    6/7/15
+45  Switches    GS748T     GS748T-500PRS    8/1/23
+46  Switches    GS748T     GS748T-500INS    2/1/24
+47  Switches    GS748T     GS748T-500AJS    3/1/24
+48  Switches    GS750E     GS750E-100PRS   12/1/20
+49  Switches    GS750E     GS750E-100AJS    2/5/21
+50  Switches    GS750E     GS750E-100EUS    7/1/22
+51  Switches    GS750E     GS750E-100NAS    7/1/22
+52  Switches   GS752TP    GS752TP-100AJS    7/1/18
+53  Switches   GS752TP    GS752TP-100EUS    7/1/18
+54  Switches   GS752TP    GS752TP-100INS    7/1/18
+55  Switches   GS752TP    GS752TP-100NAS    7/1/18
+56  Switches   GS752TP    GS752TP-100PRS    7/1/18
+57  Switches   GS752TP    GS752TP-200INS    7/1/20,     Switches   GS752TP    GS752TP-200AJS   12/1/22
+0   Switches   GS752TP    GS752TP-200EUS   12/1/22
+1   Switches   GS752TP    GS752TP-200NAS   12/1/22
+2   Switches  GS752TPP   GS752TPP-100INS   6/14/20
+3   Switches  GS752TPP   GS752TPP-100PRS    6/1/22
+4   Switches  GS752TPP   GS752TPP-100AJS   12/1/22
+5   Switches  GS752TPP   GS752TPP-100EUS   12/1/22
+6   Switches  GS752TPP   GS752TPP-100NAS   12/1/22
+7   Switches  GS752TPS  GS752TPSB-100AJS    9/6/15
+8   Switches  GS752TPS  GS752TPSB-100EUS    7/1/22
+9   Switches  GS752TPS  GS752TPSB-100NAS    7/1/22
+10  Switches   GS752TS    GS752TS-100AJS   7/26/15
+11  Switches   GS752TS   GS752TSB-100EUS    2/1/21
+12  Switches   GS752TS   GS752TSB-100AJS    7/1/21
+13  Switches   GS752TS   GS752TSB-100NAS    7/1/22
+14  Switches   GS752TX    GS752TX-100PRS  10/25/15
+15  Switches   GS752TX    GS752TX-100AJS   11/1/21
+16  Switches   GS752TX    GS752TX-100NES    2/1/22
+17  Switches   GS752TX  GS752TXAV-10000S    5/1/22
+18  Switches  GS752TXP   GS752TXP-100PRS  10/25/15
+19  Switches  GS752TXP   GS752TXP-100INS    2/1/21
+20  Switches  GS752TXP   GS752TXP-100AJS   11/1/21
+21  Switches  GS752TXP   GS752TXP-100NES    2/1/22
+22  Switches  GS752TXP  G752TXPAV-10000S    5/1/22
+23  Switches  GS752TXS   GS752TXS-100PRS    3/1/15
+24  Switches  GS752TXS  GS752TXSB-100EUS    9/6/15
+25  Switches  GS752TXS   GS752TXS-100EUS    7/1/20
+26  Switches  GS752TXS   GS752TXS-100NAS    3/1/21
+27  Switches    GS808E     GS808E-100JPS    8/1/19
+28  Switches    GS808E     GS808E-100AUS    9/1/19
+29  Switches    GS808E     GS808E-100PRS   10/1/19
+30  Switches    GS808E     GS808E-100PES    1/1/20
+31  Switches    GS808E     GS808E-100NAS    3/1/20
+32  Switches    GS808E     GS808E-100UKS    3/1/20
+33  Switches  GS810EMX   GS810EMX-100JPS   12/1/19
+34  Switches  GS810EMX   GS810EMX-100AUS    1/1/20
+35  Switches  GS810EMX   GS810EMX-100NAS    1/1/20
+36  Switches  GS810EMX   GS810EMX-100PES   1/29/21
+37  Switches  GS810EMX   GS810EMX-100UKS    3/1/21
+38  Switches     GS908      GS908-100UKS    9/1/19
+39  Switches     GS908      GS908-100NAS   11/1/19
+40  Switches     GS908      GS908-100PES   11/1/19
+41  Switches     GS908      GS908-100JPS    1/1/20
+42  Switches     GS908      GS908-100AUS    5/1/20
+43  Switches     GS908      GS908-100PRS    9/1/20
+44  Switches    GS908E     GS908E-100PES    1/1/20
+45  Switches    GS908E     GS908E-100NAS    3/1/20
+46  Switches    GS908E     GS908E-100AUS    7/1/20
+47  Switches    GS908E     GS908E-100JPS    7/1/20
+48  Switches    GS908E     GS908E-100UKS    9/1/20
+49  Switches  GSM4210P   GSM4210P-100PRS   10/1/18
+50  Switches  GSM4210P   GSM4210P-100AJS   12/1/20
+51  Switches  GSM4210P   GSM4210P-100NES    1/1/22
+52  Switches  GSM4210P   GSM4210P-100INS    7/1/22
+53  Switches  GSM4212P   GSM4212P-111AJS    1/1/24
+54  Switches  GSM4212P   GSM4212P-111EUS    1/1/24
+55  Switches  GSM4212P   GSM4212P-111NAS    1/1/24
+56  Switches  GSM4328S    GSM5212-100NES    2/1/22,     Switches   GSM7212P   GSM7212P-100NES   4/29/16
+0   Switches    GSM7224  GSM7224SK-200NAS   4/25/14
+1   Switches    GSM7224    GSM7224-200PRS   9/29/15
+2   Switches    GSM7224    GSM7224-200INS    1/1/20
+3   Switches    GSM7224    GSM7224-200AJS    3/1/20
+4   Switches    GSM7224    GSM7224-200EUS    3/1/20
+5   Switches    GSM7224    GSM7224-200NAS    6/1/20
+6   Switches   GSM7224P   GSM7224P-100PRS   5/15/15
+7   Switches   GSM7224P   GSM7224P-100AJS   12/1/19
+8   Switches   GSM7224P   GSM7224P-100NES   12/1/19
+9   Switches   GSM7224P   GSM7224P-100INS    4/1/20
+10  Switches  GSM7226LP  GSM7226LP-100AJS    5/9/16
+11  Switches  GSM7226LP  GSM7226LP-100NES    5/1/20
+12  Switches  GSM7228PS  GSM7228PS-100PRS   8/31/15
+13  Switches  GSM7228PS  GSM7228PS-100AJS   3/10/16
+14  Switches  GSM7228PS  GSM7228PS-100EUS   3/10/16
+15  Switches  GSM7228PS  GSM7228PS-100NAS   3/10/16
+16  Switches   GSM7228S   GSM7228S-100PRS   7/22/15
+17  Switches   GSM7228S   GSM7228S-100AJS   3/10/16
+18  Switches   GSM7228S   GSM7228S-100INS   3/10/16
+19  Switches   GSM7228S   GSM7228S-100NES   3/10/16
+20  Switches    GSM7248  GSM7248SK-200AJS   4/25/14
+21  Switches    GSM7248    GSM7248-200PRS  11/25/15
+22  Switches    GSM7248    GSM7248-200INS    1/1/20
+23  Switches    GSM7248    GSM7248-200NAS    3/1/20
+24  Switches    GSM7248    GSM7248-200AJS    6/1/20
+25  Switches    GSM7248    GSM7248-200EUS    3/1/21
+26  Switches   GSM7248P   GSM7248P-100PRS   8/31/15
+27  Switches   GSM7248P   GSM7248P-100AJS    6/1/20
+28  Switches   GSM7248P   GSM7248P-100NES    8/1/20
+29  Switches  GSM7252PS  GSM7252PS-100AJS    1/1/17
+30  Switches  GSM7252PS  GSM7252PS-100NAS    1/1/17
+31  Switches  GSM7252PS  GSM7252PS-100PRS    4/1/17
+32  Switches  GSM7252PS  GSM7252PS-100EUS   8/24/17
+33  Switches   GSM7252S   GSM7252S-100PRS   5/29/15
+34  Switches   GSM7252S   GSM7252S-100AJS   3/10/16
+35  Switches   GSM7252S   GSM7252S-100NES   3/10/16
+36  Switches  GSM7328FS  GSM7328FS-200AJS   11/1/20
+37  Switches  GSM7328FS  GSM7328FS-200INS   11/1/20
+38  Switches  GSM7328FS  GSM7328FS-200PRS   11/1/20
+39  Switches  GSM7328FS  GSM7328FS-200NES    3/1/21
+40  Switches   GSM7328S   GSM7328S-200PRS   12/8/15
+41  Switches   GSM7328S   GSM7328S-200AJS   3/10/16
+42  Switches   GSM7328S   GSM7328S-200EUS   3/10/16
+43  Switches   GSM7328S   GSM7328S-200INS   3/10/16
+44  Switches   GSM7328S   GSM7328S-200NAS   3/10/16
+45  Switches   GSM7352S   GSM7352S-200PRS   7/10/15,     Switches    GSS108E    GSS108E-100EUS    9/1/18
+0   Switches    GSS108E    GSS108E-100JPS    6/1/19
+1   Switches    GSS108E    GSS108E-100AUS    6/1/20
+2   Switches    GSS108E    GSS108E-100NAS    6/1/20
+3   Switches  GSS108EPP  GSS108EPP-100NAS    8/1/19
+4   Switches  GSS108EPP  GSS108EPP-100EUS   12/1/19
+5   Switches  GSS108EPP  GSS108EPP-100AUS    1/1/20
+6   Switches  GSS108EPP  GSS108EPP-100JPS    1/1/20
+7   Switches    GSS116E    GSS116E-100PRS  12/30/16
+8   Switches    GSS116E    GSS116E-100AJS    3/1/18
+9   Switches    GSS116E    GSS116E-100AUS    3/1/20
+10  Switches    GSS116E    GSS116E-100EUS   2/26/21
+11  Switches    GSS116E    GSS116E-100JPS   2/26/21
+12  Switches    GSS116E    GSS116E-100NAS    4/1/22
+13  Switches     JFS516     JFS516-200EUS   12/1/15
+14  Switches     JFS516     JFS516-200NAS   3/31/16
+15  Switches     JFS516     JFS516-200AUS    4/1/16
+16  Switches     JFS524     JFS524-200PRS   12/1/17
+17  Switches     JFS524     JFS524-200INS   1/23/18
+18  Switches     JFS524     JFS524-200NAS    5/1/21
+19  Switches     JFS524     JFS524-200EUS    8/1/21
+20  Switches     JGS516     JGS516-100AUS    7/1/21
+21  Switches     JGS516          JGS516AU    7/1/21
+22  Switches   JGS516PE   JGS516PE-100EUS   12/1/20
+23  Switches   JGS516PE   JGS516PE-100INS   12/1/20
+24  Switches   JGS516PE   JGS516PE-100NAS   12/1/20
+25  Switches   JGS516PE   JGS516PE-100AJS    7/1/21
+26  Switches   JGS516PE   JGS516PE-100PRS    7/1/21
+27  Switches     JGS524     JGS524-200PRS   9/30/16
+28  Switches     JGS524     JGS524-300INS    1/1/20
+29  Switches    JGS524E    JGS524E-200AJS    1/1/20
+30  Switches    JGS524E    JGS524E-200EUS    1/1/20
+31  Switches    JGS524E    JGS524E-200PRS    1/1/20
+32  Switches    JGS524E    JGS524E-200NAS   12/1/21
+33  Switches   JGS524PE   JGS524PE-100PRS    5/1/21
+34  Switches   JGS524PE   JGS524PE-100AJS    6/1/21
+35  Switches   JGS524PE   JGS524PE-100EUS    6/1/21
+36  Switches   JGS524PE   JGS524PE-100INS    6/1/21
+37  Switches   JGS524PE   JGS524PE-100NAS    7/1/22
+38  Switches   JGSM7224   JGSM7224-100PRS   7/18/16
+39  Switches   MS308EUP   MS308EUP-10000S    7/1/23
+40  Switches   MS308EUP   MS308EUP-100EUS    7/1/23
+41  Switches   MS308EUP   MS308EUP-100NAS    7/1/23
+42  Switches    MS308UP    MS308UP-10000S    7/1/23
+43  Switches    MS308UP    MS308UP-100EUS    7/1/23
+44  Switches    MS308UP    MS308UP-100NAS    7/1/23
+45  Switches    MS510TX    MS510TX-100PRS    2/1/18
+46  Switches    MS510TX    MS510TX-100INS    2/1/19
+47  Switches    MS510TX    MS510TX-100EUS    9/1/21
+48  Switches    MS510TX    MS510TX-100NAS    8/1/22
+49  Switches    MS510TX    MS510TX-100AJS   8/31/22
+50  Switches  MS510TXPP  MS510TXPP-100PRS    2/1/18
+51  Switches  MS510TXPP  MS510TXPP-100INS    4/1/19
+52  Switches  MS510TXPP  MS510TXPP-100AJS    2/1/23
+53  Switches  MS510TXPP  MS510TXPP-100NAS    2/1/23
+54  Switches  MS510TXPP  MS510TXPP-100EUS    3/1/23
+55  Switches    XCM8806    XCM8806-10000S    1/4/15
+56  Switches    XCM8810    XCM8810-10000S   6/15/15,     Switches    XCM8900    XCM8948-10000S   12/1/19
+0   Switches    XCM8900  XCM8903SX-10000S    1/1/20
+1   Switches    XCM8900     XCM89P-10000S   11/1/21
+2   Switches    XCM8900    XCM89UP-10000S   11/1/21
+3   Switches    XCM8900  XCM8903SK-10000S   12/1/21
+4   Switches    XCM8900    XCM8944-10000S   12/1/21
+5   Switches     XS505M     XS505M-100AJS    1/1/23
+6   Switches     XS505M     XS505M-100EUS    1/1/23
+7   Switches     XS505M     XS505M-100NAS    1/1/23
+8   Switches     XS708E     XS708E-100PRS  11/23/15
+9   Switches     XS708E     XS708E-100AJS   7/29/16
+10  Switches     XS708E     XS708E-100NES   7/29/16
+11  Switches     XS708E     XS708E-200AJS   7/29/16
+12  Switches     XS708E     XS708E-200NES   7/29/16
+13  Switches     XS708E     XS708E-200INS   12/1/18
+14  Switches     XS708E     XS708E-200PRS    5/1/21
+15  Switches     XS708T     XS708T-100PRS    8/1/20
+16  Switches     XS708T     XS708T-100INS    7/1/21
+17  Switches     XS708T     XS708T-100AJS   11/1/21
+18  Switches     XS708T     XS708T-100NES    7/1/22
+19  Switches     XS712T     XS712T-100PRS    8/1/15
+20  Switches     XS712T     XS712T-100AJS   3/27/16
+21  Switches     XS712T     XS712T-100NES   3/27/16
+22  Switches     XS712T     XS712T-200PRS    2/1/18
+23  Switches     XS712T     XS712T-200AJS    9/1/21
+24  Switches     XS712T     XS712T-200NES   11/1/21
+25  Switches     XS716E     XS716E-100INS    1/1/20
+26  Switches     XS716E     XS716E-100NES    1/1/20
+27  Switches     XS716E     XS716E-100PRS    3/4/21
+28  Switches     XS716E     XS716E-100AJS    7/1/21
+29  Switches     XS716T     XS716T-100AJS    3/1/20
+30  Switches     XS716T     XS716T-100INS    3/1/20
+31  Switches     XS716T     XS716T-100NES    3/1/20
+32  Switches     XS716T     XS716T-100PRS    9/1/20
+33  Switches    XS724EM    XS724EM-100PRS    5/1/23
+34  Switches     XS728T     XS728T-100INS    7/1/20
+35  Switches     XS728T     XS728T-100PRS    7/1/20
+36  Switches     XS748T     XS748T-100INS    7/1/20
+37  Switches  XSM4324FS  XSM4324FS-111NES    8/1/22
+38  Switches  XSM4324FS  XSM4324FS-100AJS    5/1/23
+39  Switches  XSM4324FS  XSM4324FS-100NES    6/1/23
+40  Switches  XSM4324FS  XSM4324FS-100PRS    8/1/23
+41  Switches   XSM4324S   XSM4324S-100INS    3/1/21
+42  Switches  XSM4348FS  XSM4348FS-111NES    8/1/22
+43  Switches  XSM4348FS  XSM4348FS-100AJS    6/1/23
+44  Switches  XSM4348FS  XSM4348FS-100NES    6/1/23
+45  Switches  XSM4348FS  XSM4348FS-100PRS    6/1/23
+46  Switches    XSM7224    XSM7224-100PRS   1/12/14
+47  Switches    XSM7224    XSM7224-100AJS    1/1/17
+48  Switches    XSM7224    XSM7224-100INS    1/1/17
+49  Switches    XSM7224    XSM7224-100NES    1/1/17
+50  Switches   XSM7224S  XSM7224SK-100NAS    6/1/15
+51  Switches   XSM7224S  XSM7224SK-100AJS   7/23/15
+52  Switches   XSM7224S  XSM7224SK-100EUS   7/24/15
+53  Switches   XSM7224S   XSM7224S-100PRS   8/31/15,    Switches  XCM8900   XCM8944F-10000S  6/1/18
+0  Switches  XCM8900  XCM8903SF-10000S  7/1/18
+1  Switches  XCM8900   XCM8924X-10000S  9/1/19,     Wireless   ANT224D10  ANT224D10-10000S  11/1/22
+0   Wireless       ANT24    ANT2409-20000S   8/1/21
+1   Wireless       ANT24  ANT24501B-10000S  12/1/21
+2   Wireless  ANT24511AC  ANT2511AC-10000S  11/1/21
+3   Wireless       CLOUD   WM1AP1YL-10000S   1/1/20
+4   Wireless       CLOUD  WM10AP1YL-10000S  1/20/21
+5   Wireless       CLOUD  WM50AP1YL-10000S  1/20/21
+6   Wireless       CLOUD  WM50AP3YL-10000S  1/20/21
+7   Wireless       CLOUD  WM10AP3YL-10000S  8/18/21
+8   Wireless       CLOUD   WM1AP3YL-10000S  8/18/21
+9   Wireless          PA     PAV12V-100EUS   2/1/23
+10  Wireless          PA     PAV12V-100UKS   2/1/23
+11  Wireless          PA   PAV12V35-100JPS   2/1/23
+12  Wireless          PA   PAV12V35-100PES   2/1/23
+13  Wireless          PA     PAV12V-100AUS   3/1/23
+14  Wireless          PA     PAV12V-100PRS   3/1/23
+15  Wireless          PA     PAV12V-100INS   5/1/24
+16  Wireless    PAV12V35   PAV12V35-10000S   2/1/23
+17  Wireless         POE    PEA0001-100NAS   8/1/21
+18  Wireless         POE    PEA0001-100UKS   8/1/21
+19  Wireless         POE    PEA0001-100EUS  11/1/21
+20  Wireless       SRC60      SRC60-100JPS   6/1/21
+21  Wireless       SRC60      SRC60-100AUS   8/1/21
+22  Wireless       SRC60      SRC60-100NAS   8/1/21
+23  Wireless       SRC60      SRC60-100EUS   1/1/22
+24  Wireless       SRK60      SRK60-100PRS   2/1/21
+25  Wireless       SRK60   SRK60B04-100NAS   6/1/21
+26  Wireless       SRK60   SRK60B05-100NAS   6/1/21
+27  Wireless       SRK60   SRK60B06-100EUS   6/1/21
+28  Wireless       SRK60      SRK60-100CNS  12/1/21
+29  Wireless       SRK60      SRK60-100AUS   1/1/22
+30  Wireless       SRK60      SRK60-100EUS   1/1/22
+31  Wireless       SRK60      SRK60-100JPS   1/1/22
+32  Wireless       SRK60      SRK60-100NAS   1/1/22
+33  Wireless       SRK60      SRK60-100UKS   1/1/22
+34  Wireless       SRK60   SRK60B03-100EUS   1/1/22
+35  Wireless       SRK60   SRK60B04-100EUS   1/1/22
+36  Wireless       SRK60   SRK60B05-100EUS   1/1/22
+37  Wireless       SRK60   SRK60B06-100NAS   1/1/22
+38  Wireless       SRK60      SRR60-100EUS   1/1/22
+39  Wireless       SRK60   SRK60B03-100NAS   4/1/22
+40  Wireless       SRK60      SRR60-100NAS   4/1/22
+41  Wireless       SRS60      SRS60-100PRS   2/1/21
+42  Wireless       SRS60      SRS60-100UKS   6/1/21
+43  Wireless       SRS60      SRS60-100EUS  11/1/21
+44  Wireless       SRS60      SRS60-100CNS  12/1/21
+45  Wireless       SRS60      SRS60-100NAS  12/1/21
+46  Wireless       SRS60      SRS60-100AUS   1/1/22
+47  Wireless       SRS60      SRS60-100JPS   1/1/22
+48  Wireless       SXK30      SXR30-100EUS   4/1/23
+49  Wireless       SXK30      SXR30-100NAS   8/1/23
+50  Wireless       SXK30      SXK30-100AUS   9/1/23
+51  Wireless       SXK30      SXK30-100EUS   9/1/23
+52  Wireless       SXK30      SXK30-100INS   9/1/23
+53  Wireless       SXK30      SXK30-100KOS   9/1/23
+54  Wireless       SXK30    SXK30B3-100EUS   9/1/23,     Wireless   SXK30      SXR30-100JPS   9/1/23
+0   Wireless   SXK30      SXR30-1DXJPS   9/1/23
+1   Wireless   SXK30      SXS30-100AUS   9/1/23
+2   Wireless   SXK30      SXS30-100EUS   9/1/23
+3   Wireless   SXK30      SXS30-100JPS   9/1/23
+4   Wireless   SXK30      SXS30-100KOS   9/1/23
+5   Wireless   SXK50      SXK50-100APS   2/1/23
+6   Wireless   SXK50      SXK50-100CNS   2/1/23
+7   Wireless   SXK50      SXK50-100EUS   2/1/23
+8   Wireless   SXK50      SXK50-100NAS   2/1/23
+9   Wireless   SXK50    SXK50B3-100EUS   2/1/23
+10  Wireless   SXK50    SXK50B3-100NAS   2/1/23
+11  Wireless   SXK50      SXR50-100APS   2/1/23
+12  Wireless   SXK50      SXR50-100NAS   2/1/23
+13  Wireless   SXK50      SXS50-100APS   2/1/23
+14  Wireless   SXK50      SXS50-100CNS   2/1/23
+15  Wireless   SXK50      SXS50-100EUS   2/1/23
+16  Wireless   SXK50      SXS50-100NAS   2/1/23
+17  Wireless   SXK50      SXR50-100EUS   9/1/23
+18  Wireless   SXK80      SXK80-100AUS   2/1/23
+19  Wireless   SXK80      SXK80-100EUS   2/1/23
+20  Wireless   SXK80      SXK80-100JPS   2/1/23
+21  Wireless   SXK80      SXK80-100KOS   2/1/23
+22  Wireless   SXK80      SXK80-100NAS   2/1/23
+23  Wireless   SXK80    SXK80B3-100EUS   2/1/23
+24  Wireless   SXK80    SXK80B3-100NAS   2/1/23
+25  Wireless   SXK80    SXK80B4-100EUS   2/1/23
+26  Wireless   SXK80    SXK80B4-100NAS   2/1/23
+27  Wireless   SXK80      SXR80-100NAS   2/1/23
+28  Wireless   SXK80      SXS80-100AUS   2/1/23
+29  Wireless   SXK80      SXS80-100CNS   2/1/23
+30  Wireless   SXK80      SXS80-100EUS   2/1/23
+31  Wireless   SXK80      SXS80-100INS   2/1/23
+32  Wireless   SXK80      SXS80-100JPS   2/1/23
+33  Wireless   SXK80      SXS80-100KOS   2/1/23
+34  Wireless   SXK80      SXS80-100NAS   2/1/23
+35  Wireless   SXK80      SXK80-100CNS   5/1/23
+36  Wireless   SXK80      SXR80-100JPS   5/1/23
+37  Wireless   SXK80      SXR80-100EUS   9/1/23
+38  Wireless  WAC104     WAC104-100INS   9/1/17
+39  Wireless  WAC104     WAC104-100AUS   9/1/19
+40  Wireless  WAC104     WAC104-100NAS  11/1/21
+41  Wireless  WAC104     WAC104-100PES  11/1/21
+42  Wireless  WAC104     WAC104-100UKS  11/1/21
+43  Wireless  WAC104     WAC104-100CNS   2/1/23
+44  Wireless  WAC120     WAC120-100PRS  7/18/16
+45  Wireless  WAC120     WAC120-100AUS   1/1/17
+46  Wireless  WAC120     WAC120-100PES   1/1/17
+47  Wireless  WAC120     WAC120-100NAS   1/1/18
+48  Wireless  WAC120     WAC120-100UKS   1/1/18
+49  Wireless  WAC124     WAC124-100JPS   8/1/21
+50  Wireless  WAC124     WAC124-100NAS  11/1/21
+51  Wireless  WAC124     WAC124-100UKS  11/1/21
+52  Wireless  WAC124     WAC124-100PES   1/1/22
+53  Wireless  WAC720  WAC720C03-10000S   8/1/17
+54  Wireless  WAC720  WAC720C03-100NAS   8/1/17
+55  Wireless  WAC720     WAC720-100NAS  7/21/20,     Wireless   WAC720  WAC720B03-10000S    1/1/22
+0   Wireless   WAC730  WAC730C03-10000S    8/1/17
+1   Wireless   WAC730  WAC730C03-100NAS    8/1/17
+2   Wireless   WAC730     WAC730-100NAS    8/1/20
+3   Wireless   WAC730  WAC730B03-100NAS    8/1/20
+4   Wireless   WAC730     WAC730-10000S    1/1/21
+5   Wireless   WAC730  WAC730B03-10000S    1/1/21
+6   Wireless   WAC730     WAC730-1AZNAS    6/1/21
+7   Wireless   WAC740     WAC740-10000S    7/1/20
+8   Wireless   WAC740     WAC740-100NAS    7/1/20
+9   Wireless   WAX202     WAX202-100AUS    2/1/23
+10  Wireless   WAX202     WAX202-100CNS    2/1/23
+11  Wireless   WAX202     WAX202-100EUS    2/1/23
+12  Wireless   WAX202     WAX202-100JPS    2/1/23
+13  Wireless   WAX202     WAX202-100NAS    2/1/23
+14  Wireless   WAX204     WAX204-100NAS    6/1/22
+15  Wireless   WAX204     WAX204-100EUS    8/1/22
+16  Wireless   WAX206     WAX206-100AUS    2/1/23
+17  Wireless   WAX206     WAX206-100EUS    2/1/23
+18  Wireless   WAX206     WAX206-100JPS    2/1/23
+19  Wireless   WAX206     WAX206-100NAS    2/1/23
+20  Wireless   WAX214     WAX214-100EUS    5/1/23
+21  Wireless   WAX214   WAX214PA-100NAS    5/1/23
+22  Wireless   WAX214     WAX214-200APS    9/1/23
+23  Wireless   WAX214     WAX214-200CNS    9/1/23
+24  Wireless   WAX214   WAX214PA-100CNS   10/1/23
+25  Wireless   WAX214     WAX214-200EUS   12/1/23
+26  Wireless   WAX218     WAX218-100EUS    7/1/22
+27  Wireless   WAX218     WAX218-100NAS    7/1/22
+28  Wireless   WAX218   WAX218PA-100NAS    7/1/22
+29  Wireless   WAX220     WAX220-100APS    9/1/23
+30  Wireless   WAX220     WAX220-100EUS    9/1/23
+31  Wireless   WAX220   WAX220PA-100NAS    9/1/23
+32  Wireless   WBC502     WBC502-100NAS    8/1/21
+33  Wireless   WBC502     WBC502-100UKS    8/1/21
+34  Wireless   WC7500     WC7500-100INS    7/1/17
+35  Wireless   WC7500     WB7520-100NAS    1/1/18
+36  Wireless   WC7500     WB7530-100NAS    1/1/18
+37  Wireless   WC7500  WB7540SKT-10000S    8/1/19
+38  Wireless   WC7500  WB7540SKT-100NAS    8/1/19
+39  Wireless   WC7500     WB7530-10000S    7/1/20
+40  Wireless   WC7500     WB7520-10000S    6/1/21
+41  Wireless   WC7500     WC7500-10000S    6/1/21
+42  Wireless   WC7500     WC7500-100PRS   11/1/21
+43  Wireless  WC7510L    WC7510L-10000S    5/1/20
+44  Wireless   WC7520  WC7523SKT-100NAS    6/1/15
+45  Wireless   WC7520  WC7529SKT-100NAS    6/1/15
+46  Wireless   WC7520     WC7520-100AUS  10/24/16
+47  Wireless   WC7520     WC7520-100INS  10/24/16
+48  Wireless   WC7520     WC7520-100PRS  10/24/16
+49  Wireless   WC7520     WC7520-100EUS  12/30/16
+50  Wireless   WC7520     WC7520-100NAS   4/21/17
+51  Wireless   WC7600  WC7660SKT-100NAS   2/11/16
+52  Wireless   WC7600     WC7600-100PRS  10/24/16
+53  Wireless   WC7600  WC7660SKT-100UKS   1/30/17
+54  Wireless   WC7600  WC7660SKT-100PES    3/1/17
+55  Wireless   WC7600     WC7600-100INS    5/1/17
+56  Wireless   WC7600     WC7600-10000S    3/4/18
+57  Wireless   WC7600     WB7620-100NAS    6/1/18,     Wireless   WC7600     WB7630-100NAS    6/1/18
+0   Wireless   WC7600  WB7640SKT-10000S    8/1/19
+1   Wireless   WC7600  WB7640SKT-100NAS    8/1/19
+2   Wireless   WC7600     WB7630-10000S    9/1/19
+3   Wireless   WC7600     WC7600-200INS    1/1/20
+4   Wireless   WC7600     WB7620-10000S    3/1/20
+5   Wireless   WC7600     WC7600-20000S    8/1/21
+6   Wireless   WC7600     WC7600-200PRS   11/1/21
+7   Wireless   WC9500     WC9500-10000S    7/1/20
+8   Wireless   WC9500     WC9500-100PRS    8/1/20
+9   Wireless    WG102      WG102-100PES   8/29/14
+10  Wireless    WG103      WG103-100NAS    1/5/13
+11  Wireless    WG103      WG103-100UKS    1/5/13
+12  Wireless    WG602           WG602UK    4/1/13
+13  Wireless    WG602      WG602-100UKS    7/4/13
+14  Wireless  WMS5316   WNSKT350-100AUS   5/20/13
+15  Wireless  WMS5316    WMS5316-100NAS   8/20/13
+16  Wireless  WMS5316   WNSKT350-100PES  12/30/13
+17  Wireless  WMS5316   WNSKT350-100UKS    3/3/14
+18  Wireless  WMS5316   WNSKT350-100NAS   12/5/16
+19  Wireless  WMS5316    WMS5316-100EUS   1/30/17
+20  Wireless  WMS5316    WMS5316-100PRS   10/3/17
+21  Wireless    WN203      WN203-100AUS    1/1/17
+22  Wireless    WN203      WN203-100NAS    3/1/17
+23  Wireless    WN203      WN203-100PRS    3/1/17
+24  Wireless    WN203      WN203-100UKS    4/1/17
+25  Wireless    WN203      WN203-200INS    4/1/17
+26  Wireless    WN203      WN203-200PES   12/1/17
+27  Wireless    WN370     PND370-10000S    8/1/20
+28  Wireless    WN370      WN370-10000S    8/1/21
+29  Wireless    WN604      WN604-100AUS   3/15/16
+30  Wireless    WN604      WN604-100NAS   3/15/16
+31  Wireless    WN604      WN604-100UKS   3/15/16
+32  Wireless    WN604      WN604-100PES   9/30/16
+33  Wireless  WNAP210    WNAP210-200AUS    2/1/17
+34  Wireless  WNAP210    WNAP210-200PES   4/21/17
+35  Wireless  WNAP210    WNAP210-200NAS    6/1/17
+36  Wireless  WNAP210    WNAP210-200PRS   8/23/17
+37  Wireless  WNAP210    WNAP210-200UKS   8/23/17
+38  Wireless  WNAP210    WNAP210-200INS   8/25/17
+39  Wireless  WNAP320    WNAP320-100AUS    1/1/17
+40  Wireless  WNAP320    WNAP320-100PRS    2/1/17
+41  Wireless  WNAP320    WNAP320-100PES    3/1/17
+42  Wireless   WND930     WND930-100JPS    7/1/20
+43  Wireless   WND930     WND930-100NAS    7/1/20
+44  Wireless   WND930     WND930-10000S    6/1/21]

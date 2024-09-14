@@ -35,11 +35,11 @@ for url in cveURLs:
   for para in cve.find_all('p'):
     if 'Associated CVE' in para.text and 'CVE-' in para.text:
       cveID = 'CVE-' + para.text.split('CVE-')[-1]
-      print(f'========= {cveID} =========')
+      # print(f'========= {cveID} =========')
       print(url, cveID)
 
       if cveID in cveList:
-        print('Found:', cveID)
+        print('Found:', cveID, '\n')
       time.sleep(1)
       break
   

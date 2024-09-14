@@ -1,0 +1,261 @@
+from lxml import etree
+import requests
+import httpx
+
+url = "https://www.asus.com/event/network/eol-product/"
+session = httpx.Client(
+  headers={
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+  },
+  http2=True,
+  follow_redirects=True
+)
+
+page = session.get(url)
+parser = etree.HTMLParser()
+tree = etree.fromstring(page.content, parser)
+table = tree.xpath("//table")[0]
+rows = table.xpath(".//tr")
+print("Model,Day,Month,Year")
+
+dirtyList = """RT_AC1500G_PLUS
+RT_N12K
+RT_AC65
+RT_AC2600
+RT_N56R
+WL_500W
+WL_520gU
+DSL_N17U
+RT_AC85U
+RT_AC57U
+RT_G32B1
+RT_N102
+RT_N10C1
+RT_N12
+4G_N12_B1
+RT_AC55UHP
+RT_AC1200G+G+
+RT_AC1900P
+DSL_N10_C1
+RT_N12+_pro
+RT_AC1200GU
+RT_AX1800U
+RT_AC58U2
+RT_AC66U
+RT_ACRH17
+RT_AC59U2
+RT_AC66R
+RT_AC58U
+RT_N56UB1
+RT_AC65P
+RT_AC1200L
+RT_N10D1
+RT_N15
+RT_N66U_C1
+WL_330NUL
+RT_N12HPB1
+DSL_AC68VG
+RT_AC1300UHP
+RT_N11P
+RT_N12EC1
+4G_AC68U
+RT_N10+
+WL_330N3G
+RT_N15U
+RT_N12B1
+RT_N56U
+WL_330N
+RT_AC66U_WHITE
+RT_AC750L
+RT_N10B1
+DSL_AC87VG
+RT_AC66UB1
+RT_N600
+RT_N66R
+DSL_N10E
+BRT_AC828
+WL_520GU
+RT_N14UHPAICLOUD
+RT_AC67U
+WL_AM604g
+DSL_AC52U
+RT_AX53U
+DSL_G31
+RT_N13U
+RT_N12D1
+WL_600G
+RT_N11PB1
+DSL_N13
+RT_AX54HP
+RT_N10P_V2
+RT_ACRH13
+RT_AC68R
+DSL_AC88U
+RT_N10EB1
+RT_AC56U
+RT_G32C1
+RT_AC56R
+RT_AC51U
+RT_N12E_B1
+RT_N12HP_B1
+RT_N53
+FW_RT_N10PlusD1
+RT_AC1200GE
+RT_N12EB1
+RT_N10P
+RT_AC68U
+RT_AX1800HP
+RT_N16
+RT_N14UHP
+WL_320GE
+RT_N12C1
+RT_N14U
+RT_AC1200E
+RT_ACRH26
+RT_G32B1_RU
+DSL_AC55U
+RT_N600P
+WL_AM604
+RT_AC51U+
+RT_AC59U
+WL_330GE
+RT_AC53
+WL_566gM
+Blue_Cave
+DSL_AC3100
+RT_AC2400
+RT_AC57U3
+RT_N14UHPWIMAX
+RT_N12E
+DSL_N12HP
+WL_500gP2
+RT_AC1200G+
+RT_AC51
+RT_AC67P
+WL_520gURU
+WL_520gUID
+RT_N300
+RT_N65U
+RT_N10UB1
+RT_AC750
+RT_AC1750
+DSL_N55U_D1
+RT_AX92U
+DSL_AC56U
+RT_N66W
+RT_AC88U
+Lyra
+RT_AC1200GG
+RT_AC68W
+Lyra_mini
+RT_AC5300
+DSL_N16P
+RT_N66UC1
+4G_AC53U
+RT_N12LX
+RT_AC1200G
+DSL_N12U
+RT_N12+
+RT_N800HP
+RT_AC85MR
+DSL_N12U_D1
+RT_AC87R
+RT_AC52U
+RT_AC68UF
+RT_N13
+DSL_N12U_C1
+RT_AC55U
+RT_AC87U
+RT_AC3100
+RT_AC1300G_PLUS3
+RT_G31
+DSL_N11
+RT_N10B1_RU
+RT_AC58U3
+RT_AC1200RU
+RT_N12HP
+RT_AC68P
+RT_N10U
+RT_N13UB1
+DSL_N55U_C1
+RT_AC52U_B1
+RT_AC12002
+DSL_AC68U
+WL_700GE
+WL_AM604G
+WL_500GP
+DSL_N10S
+WL_520GC
+RT_N65R
+RT_AC1750U
+RT_N300B1
+RT_AC1750B1
+RT_N103
+RT_N18U
+RT_N600RU
+RT_AC85P
+RT_N66UB1
+RT_AC52
+RT_AC57U2
+RT_AC1300G_PLUS
+RT_AC53U
+RT_AC1200EE
+RT_AC2900
+RT_AC56S
+RT_N10E
+DSL_N10S_B
+RT_AC52UB1
+RT_AC1900U
+RT_AC1200
+RT_N12VPB1
+DSL_N66U
+RT_AC65U
+RT_AX68U
+RT_N10
+RT_AC1500UHP
+RT_AC3200
+RT_N10LX
+Lyra_Voice
+RT_ACRH12
+RT_ACRH18
+RT_AC66W
+RT_G32
+DSL_N12E_C1
+4G_AC55U
+DSL_N14U
+4G_N12
+RT_AC1900
+RT_AC86U
+RT_N12VP
+RT_AC54U
+RT_AC2200
+WL_520gC
+DSL_X11
+RT_AC1200GUGU
+Lyra_Trio
+RT_AC750GF
+WL_AM602
+GT_AC5300
+RT_AC1200HP"""
+
+dirtyList = dirtyList.split("\n")
+for router in dirtyList:
+  original = router
+  router1 = router.replace("_", "-")
+  router2 = router.replace("_", " ")
+  router = '-'
+
+  found = 0
+  for r in rows:
+    cells = r.xpath('.//td')
+    if len(cells)>0 and router1 == cells[0].text.strip():
+      router = router1
+
+    router = router.replace("-", " ")
+    if len(cells)>0 and router2 == cells[0].text.strip():
+      router = router2
+
+  print(f"{router}, {original}")
